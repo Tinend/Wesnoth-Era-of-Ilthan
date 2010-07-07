@@ -15,6 +15,7 @@ def substitute_in_cfgs( dir_name, reg )
       File.copy( file_name, file_name + '~' )
       content = File.read( file_name )
       while (match = content[reg])
+        puts match
         after = "\"units/" + match[1..-1]
         content.sub!( match, after )
       end
