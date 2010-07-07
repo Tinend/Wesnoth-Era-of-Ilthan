@@ -16,7 +16,7 @@ def substitute_in_cfgs( dir_name, reg )
       content = File.read( file_name )
       while (match = content[reg])
         after = "\"units/" + match[1..-1]
-        content.sub!( people, after )
+        content.sub!( match, after )
       end
       File.open( file_name, 'w' ) do |f|
         f.puts( content )
@@ -34,5 +34,5 @@ peoples.each do |people|
   reg = Regexp.new(image_file)
   after = "\"units/" + image_file[1..-1]
   puts "substitute #{reg} by #{after}"
-  # substitute_in_cfgs( DIRECTORY, reg, after )
+  substitute_in_cfgs( DIRECTORY, reg, after )
 end
