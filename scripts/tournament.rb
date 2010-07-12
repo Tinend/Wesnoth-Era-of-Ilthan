@@ -59,6 +59,18 @@ class Tournament
   end
 end
 
+class Match
+  def initialize(scenario)
+    @scenario = scenario
+  end
+end
+
+class Faction
+  def initialize
+    @matchs = 0
+  end
+end
+
 SCENARIOS = [
              "multiplayer_The_Freelands"
 ]
