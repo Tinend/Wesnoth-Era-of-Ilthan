@@ -1,8 +1,45 @@
 require 'ftools'
+require 'eoi_constants'
 
 class FileEnumerator
+  
+  CFG_ENDING = ".cfg"
+
+  PNG_ENDING = ".png"
+
+  SKETCH_ENDINGS = [
+                    "_sketch.png",
+                    "_skizze.png",
+                    "_scetch.png"
+                   ]
+
   def accept_file_name?( file_name )
     raise "Decision on file name not implemented."
+  end
+
+  def is_cfg?( file_name )
+    file_name.end_with?( CFG_ENDING )
+  end
+
+  def is_sketch?( file_name )
+    SKETCH_ENDINGS.any? { |e| file_name.end_with?( e ) }
+  end
+
+  def is_sprite?( file_name )
+    is_png?( file_name ) && !is_sketch?( file_name ) && is_in_sprite_directory?( file_name )
+  end
+
+  def is_in_sprite_directory?( file_name )
+    EOIConstants::PEOPLES.include?( File.basename( File.dirname( file_name ) ) ) &&
+      File.dirname( File.dirname( file_name ) ) == File.join( EOIConstants::BASE_DIR, "images", "units" )
+  end
+
+  def is_png?( file_name )
+    file_name.end_with?( PNG_ENDING )
+  end
+
+  def is_productive?( file_name )
+    is_cfg?( file_name ) || is_sprite?( file_name )
   end
 
   def each_file( dir_name, &task )
