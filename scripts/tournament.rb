@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
 
+$:.unshift(File.dirname(__FILE__))
+require 'eoi_constants'
+
 class Tournament
   COMMAND = "wesnoth-1.8 --nogui --multiplayer --era=era_of_ilthan --side1=##SIDE1## --side2=##SIDE2## --controller1=ai --controller2=ai --scenario=##SCENARIO##" 
   WIN_VALUE = 1
@@ -75,16 +78,7 @@ SCENARIOS = [
              "multiplayer_The_Freelands"
 ]
 
-FACTIONS = [
-            "EOI_earthmen",
-            "EOI_wood_pirates",
-            "EOI_mountain_mages",
-            "EOI_artons",
-            "EOI_lizard_alliance",
-            "EOI_desert_undead",
-            "EOI_black_army",
-            "EOI_swamp_undead"
-           ]
+FACTIONS = EOIConstants::PEOPLES.collect { |p| "EOI_" + p }
 
 t = Tournament.new(FACTIONS)
 
