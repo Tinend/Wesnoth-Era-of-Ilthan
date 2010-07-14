@@ -4,9 +4,10 @@ $:.unshift( File.dirname( __FILE__ ) )
 
 require 'enumeration_utils'
 
-TAR_COMMAND = "tar -cf ##DOWNLOAD_FILE## ##FILE_LIST##"
-COMPRESS_COMMAND = "gzip ##DOWNLOAD_FILE##"
 DOWNLOAD_FILE = File.join( "downloads", "Era_of_Ilthan.tar" )
+TAR_COMMAND = "tar -cf " + DOWNLOAD_FILE + " "
+COMPRESS_COMMAND = "gzip " + DOWNLOAD_FILE
+RM_COMMAND = "rm " + DOWNLOAD_FILE + " " + DOWNLOAD_FILE + ".gz"
 
 Dir.chdir( File.join( File.dirname( __FILE__ ), ".." ) )
 
@@ -20,10 +21,6 @@ dc = DownloadCollector.new
 
 file_list = []
 dc.each_file( '.' ) { |f| file_list.push( f ) }
-tar_command = TAR_COMMAND.clone
-tar_command.gsub!( "##DOWNLOAD_FILE##", DOWNLOAD_FILE )
-tar_command.gsub!( "##FILE_LIST##", file_list.join( " " ) )
-system( tar_command )
-compress_command = COMPRESS_COMMAND.clone
-compress_command.gsub!( "##DOWNLOAD_FILE##", DOWNLOAD_FILE )
-system( compress_command )
+system( RM_COMMAND )
+system( TAR_COMMAND + file_list.join( " " ) )
+system( COMPRESS_COMMAND )
