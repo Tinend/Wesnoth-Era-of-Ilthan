@@ -8,10 +8,15 @@ class FileEnumerator
   PNG_ENDING = ".png"
 
   SKETCH_ENDINGS = [
-                    "_sketch.png",
-                    "_skizze.png",
-                    "_scetch.png"
+                    "_sketch",
+                    "_skizze",
+                    "_scetch"
                    ]
+
+  OLD_ENDINGS = [
+                 "_old",
+                 "_alt"
+                ]
 
   def accept_file_name?( file_name )
     raise "Decision on file name not implemented."
@@ -22,16 +27,31 @@ class FileEnumerator
   end
 
   def is_sketch?( file_name )
-    SKETCH_ENDINGS.any? { |e| file_name.end_with?( e ) }
+    SKETCH_ENDINGS.any? { |e| file_name.end_with?( e + PNG_ENDING ) }
   end
 
   def is_sprite?( file_name )
-    is_png?( file_name ) && !is_sketch?( file_name ) && is_in_sprite_directory?( file_name )
+    is_png?( file_name ) && !is_sketch?( file_name ) && is_in_sprite_dir?( file_name ) && !is_old?( file_name )
   end
 
-  def is_in_sprite_directory?( file_name )
-    EOIConstants::PEOPLES.include?( File.basename( File.dirname( file_name ) ) ) &&
-      File.dirname( File.dirname( file_name ) ) == File.join( EOIConstants::BASE_DIR, "images", "units" )
+  def is_old?( file_name )
+    OLD_ENDINGS.any? { |e| file_name.end_with?( e + PNG_ENDING ) }
+  end
+
+  def is_in_sprite_dir?( file_name )
+    EOIConstants::PEOPLES.include?( File.basename( File.dirname( file_name ) ) ) && is_in_image_unit_dir?( File.dirname( file_name ) )
+  end
+
+  def is_in_image_unit_dir?( file_name )
+    File.basename( File.dirname( file_name ) ) == "units" && is_in_image_dir?( File.dirname( file_name ) )
+  end
+
+  def is_in_image_dir?( file_name )
+    File.basename( File.dirname( file_name ) ) == "images" && is_in_base_dir?( File.dirname( file_name ) )
+  end
+
+  def is_in_base_dir?( file_name )
+    File.basename( File.dirname( File.expand_path( file_name ) ) ) == "Era_of_Ilthan"
   end
 
   def is_png?( file_name )
@@ -48,7 +68,7 @@ class FileEnumerator
       next if ['.', '..'].include? fname
       if File.directory?(file_name) and not fname[/^\./]
         puts "descending to directory #{file_name}"
-        substitute_in_cfgs( file_name, before, after )
+        each_file( file_name, &task )
         puts "back from #{file_name}"
       elsif acceptable_file_name?( file_name )
         puts "working on file #{file_name}"
