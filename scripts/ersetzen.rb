@@ -1,6 +1,8 @@
 #!/usr/bin/env ruby
 
-require '~/.wesnoth1.8/data/add-ons/Era_of_Ilthan/scripts/enumeration_utils'
+$:.unshift( File.dirname( __FILE__ ) )
+
+require 'enumeration_utils'
 
 DIRECTORY = '.'
 before = ARGV[0]

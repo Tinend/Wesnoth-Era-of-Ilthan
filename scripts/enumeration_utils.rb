@@ -17,11 +17,7 @@ class FileEnumerator
                  "_old",
                  "_alt"
                 ]
-
-  def accept_file_name?( file_name )
-    raise "Decision on file name not implemented."
-  end
-
+  
   def is_cfg?( file_name )
     file_name.end_with?( CFG_ENDING )
   end
@@ -62,6 +58,10 @@ class FileEnumerator
     is_cfg?( file_name ) || is_sprite?( file_name )
   end
 
+  def accept_file_name?( file_name )
+    raise "Decision on file name not implemented."
+  end
+
   def each_file( dir_name, &task )
     Dir.foreach( dir_name ) do |fname|
       file_name = File.join( dir_name, fname )
@@ -70,7 +70,7 @@ class FileEnumerator
         puts "descending to directory #{file_name}"
         each_file( file_name, &task )
         puts "back from #{file_name}"
-      elsif acceptable_file_name?( file_name )
+      elsif accept_file_name?( file_name )
         puts "working on file #{file_name}"
         yield file_name
       end
@@ -80,7 +80,7 @@ end
 
 class CfgLineEnumerator < FileEnumerator
   def accept_file_name?( file_name )
-    return file_name.match( /\.cfg$/ )
+    return is_cfg?( file_name )
   end
 
   def each_line( dir_name, &task )
@@ -88,7 +88,7 @@ class CfgLineEnumerator < FileEnumerator
       File.copy( file_name, file_name + '~' )
       lines = File.readlines( file_name )
       lines.each do |line| 
-        yield line
+        yield line, file_name
       end
       File.open( file_name, 'w' ) do |f|
         lines.each do |line|
@@ -97,4 +97,13 @@ class CfgLineEnumerator < FileEnumerator
       end 
     end
   end
+
+  def each( &block )
+    each_file( '.' ) do |file_name|
+      File.readlines(file_name).each { |line| yield line, file_name }
+    end
+  end
+
+  include Enumerable
+
 end

@@ -12,7 +12,7 @@ RM_COMMAND = "rm " + DOWNLOAD_FILE + " " + DOWNLOAD_FILE + ".gz"
 Dir.chdir( File.join( File.dirname( __FILE__ ), "..", ".." ) )
 
 class DownloadCollector < FileEnumerator
-  def acceptable_file_name?( file_name )
+  def accept_file_name?( file_name )
     is_productive?( file_name )
   end
 end
