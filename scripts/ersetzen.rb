@@ -8,8 +8,8 @@ DIRECTORY = '.'
 before = ARGV[0]
 after = ARGV[1]
 
-enumerator = new CfgLineEnumerator
+enumerator = CfgLineEnumerator.new
 
-enumerator.each_line( DIRECTORY ) do |line|
+enumerator.each_line( DIRECTORY ) do |line, file_name|
   line.gsub!( before, after )
 end

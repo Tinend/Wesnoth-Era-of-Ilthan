@@ -1,8 +1,10 @@
-require 'ftools'
 require 'eoi_constants'
+require 'fileutils'
 
 class FileEnumerator
   
+  include FileUtils::Verbose
+
   CFG_ENDING = ".cfg"
 
   PNG_ENDING = ".png"
@@ -85,7 +87,7 @@ class CfgLineEnumerator < FileEnumerator
 
   def each_line( dir_name, &task )
     each_file( dir_name ) do |file_name|
-      File.copy( file_name, file_name + '~' )
+      copy( file_name, file_name + '~' )
       lines = File.readlines( file_name )
       lines.each do |line| 
         yield line, file_name
