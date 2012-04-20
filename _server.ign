@@ -2,6 +2,9 @@
 *~
 *.pbl
 *.ign
+*.xcf
+*sketch*
+*scetch*
 downloads
 scripts
 images/alte_bilder
