@@ -1,8 +1,22 @@
-author="Bernhard F. Brodowsky"
-title="Pirate Attack"
-#icon=""
+author="Ulrich Brodowsky, Bernhard Brodowsky"
+title="Era of Ilthan"
+icon="units/lizard.png"
 version="0.0.0"
-description="blubb"
+description="A multiplayer era which is situated on an
+island far away from the Wesnoth mainland. The human nation
+of Artonia has to defend themselves against the attacking
+black army while their villages are pillaged by pirates which
+live in a big forest. They have support by their friends, the
+mountain mages, but they are somewhat unreliable and live on the
+other side of the dangerous forest in the high mountains,
+searching for magical items in the caves where the earthmen live.
+Meanwhile, the lizard alliance consisting of dragons, lizards in
+the desert and Uralians in the big Swamp have agreements to help
+each other to defend their realm against human researchers, pirates,
+the undead armies of the witch apprentices in the large swamp and
+the armies of an old high culture which rise again as skeletons.
+Note that this is a work in progress and still a lot of balancing
+and painting has to be done."
 type="campaign"
 email="brodowsb@ethz.ch"
 passphrase="Alles alles ist so klar."
