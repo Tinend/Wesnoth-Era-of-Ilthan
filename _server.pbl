@@ -1,7 +1,4 @@
 author="Ulrich Brodowsky, Bernhard Brodowsky"
-title="Era of Ilthan"
-icon="units/lizard.png"
-version="0.0.0"
 description="A multiplayer era which is situated on an
 island far away from the Wesnoth mainland. The human nation
 of Artonia has to defend themselves against the attacking
@@ -17,6 +14,9 @@ the undead armies of the witch apprentices in the large swamp and
 the armies of an old high culture which rise again as skeletons.
 Note that this is a work in progress and still a lot of balancing
 and painting has to be done."
-type="campaign"
+icon="units/lizard_alliance/lizard.png"
 email="brodowsb@ethz.ch"
-passphrase="Alles alles ist so klar."
+passphrase="aialjqwe"
+title="Era of Ilthan"
+type="campaign"
+version="0.0.0"
