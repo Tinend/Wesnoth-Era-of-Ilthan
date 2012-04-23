@@ -5,6 +5,10 @@
 *.xcf
 *sketch*
 *scetch*
+boatman.cfg
+canoe.cfg
+sailing_ship.cfg
+warship.cfg
 BATTLES
 TODO
 downloads/
