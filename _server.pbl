@@ -17,5 +17,5 @@ and painting has to be done."
 email="brodowsb@ethz.ch"
 title="Era of Ilthan"
 type="era"
-version="0.0.16"
-
+version="0.0.17"
+passphrase="##PASSPHRASE##"
