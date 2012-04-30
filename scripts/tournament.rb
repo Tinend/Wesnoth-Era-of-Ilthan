@@ -4,7 +4,7 @@ $:.unshift(File.dirname(__FILE__))
 require 'eoi_constants'
 
 class Tournament
-  COMMAND = "wesnoth-1.8 --nogui --multiplayer --era=era_of_ilthan --side1=##SIDE1## --side2=##SIDE2## --controller1=ai --controller2=ai --scenario=##SCENARIO##" 
+  COMMAND = "wesnoth --nogui --multiplayer --era era_of_ilthan --side 1:##SIDE1## --side 2:##SIDE2## --controller 1:ai --controller 2:ai --scenario ##SCENARIO##" 
   WIN_VALUE = 1
   LOSS_VALUE = 0
   DRAW_VALUE = 0.5
@@ -27,6 +27,7 @@ class Tournament
     @factions.each do |f1|
       @factions.each do |f2|
         command = find_command( f1, f2, scenario )
+        puts command
         gamelog = `#{command}`
         if $? != 0
           puts gamelog
@@ -81,13 +82,20 @@ SCENARIOS = [
 FACTIONS = EOIConstants::PEOPLES.collect { |p| "EOI_" + p }
 
 t = Tournament.new(FACTIONS)
+number = ARGV[1].to_i
 
 if ARGV[0] == "all"
   SCENARIOS.each do |s|
-    t.fight(s)
+    number.times do
+      t.fight(s)
+      puts
+    end
   end
 else
-  t.fight(SCENARIOS.sample)
+  number.times do
+    t.fight(SCENARIOS.sample)
+    puts
+  end
 end
 puts "Results:"
 puts t.points_string
