@@ -3,6 +3,7 @@
 *.pbl
 *.ign
 *.xcf
+*-bak
 *sketch*
 *scetch*
 boatman.cfg
@@ -12,6 +13,8 @@ warship.cfg
 karte.png
 BATTLES
 TODO
+battles.txt
+todo.txt
 downloads/
 scripts/
 alte_bilder/
