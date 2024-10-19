@@ -27,7 +27,7 @@ jobs:
 
     - name: Change back into the working directory
       run: |
-      cd ..
+        cd ..
 
     - name: Run wmllint
       run: |
