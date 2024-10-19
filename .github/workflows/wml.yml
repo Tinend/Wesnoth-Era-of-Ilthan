@@ -13,30 +13,24 @@ jobs:
       run: |
         git clone --filter=blob:none --no-checkout --depth 1 --sparse --branch 1.18 https://github.com/wesnoth/wesnoth.git
 
-    - name: Change into the wesnoth directory
-      run: |
-        cd wesnoth
-
     - name: Set sparse checkout to only fetch the data/ directory
+      working-directory: ./wesnoth
       run: |
         git sparse-checkout set data
 
     - name: Checkout branch 1.18
+      working-directory: ./wesnoth
       run: |
         git checkout
 
-    - name: Change back into the working directory
+    - name: Run wmllint and filter out findings from core
       run: |
-        cd ..
-
-    - name: Run wmllint
-      run: |
-        wesnoth/data/tools/wmllint -S -d wesnoth/data/core . | grep -v wesnoth/
+        wesnoth/data/tools/wmllint -S -d wesnoth/data/core . > >(grep -v "wesnoth") 2> >(grep -v "wesnoth" >&2)
 
     - name: Run wmlindent
       run: |
         wesnoth/data/tools/wmlindent -d .
 
-    - name: Run wmlscope
+    - name: Run wmlscope and filter out findings from core
       run: |
-        wesnoth/data/tools/wmlscope -d wesnoth/data/core . | grep -v wesnoth/
+        wesnoth/data/tools/wmlscope -d wesnoth/data/core . > >(grep -v "wesnoth") 2> >(grep -v "wesnoth" >&2)
