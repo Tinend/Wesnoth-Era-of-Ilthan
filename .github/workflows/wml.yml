@@ -1,0 +1,26 @@
+name: WML
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v4
+
+    - name: Clone Wesnoth 1.18 branch
+      run: |
+        git clone --branch 1.18 https://github.com/wesnoth/wesnoth.git
+
+    - name: Run wmllint
+      run: |
+        wesnoth/data/tools/wmllint -S -d wesnoth/data/core .
+
+    - name: Run wmlindent
+      run: |
+        wesnoth/data/tools/wmlindent -d .
+
+    - name: Run wmlscope
+      run: |
+        wesnoth/data/tools/wmlscope -d wesnoth/data/core .
