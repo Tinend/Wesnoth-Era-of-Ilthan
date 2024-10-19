@@ -25,12 +25,12 @@ jobs:
 
     - name: Run wmllint and filter out findings from core
       run: |
-        wesnoth/data/tools/wmllint -S -d wesnoth/data/core . > >(grep -v "wesnoth") 2> >(grep -v "wesnoth" >&2)
+        wesnoth/data/tools/wmllint -S -d wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg > >(grep -v "wesnoth") 2> >(grep -v "wesnoth" >&2)
 
     - name: Run wmlindent
       run: |
-        wesnoth/data/tools/wmlindent -d .
+        wesnoth/data/tools/wmlindent -d utils units factions Era_of_Ilthan_Units.cfg _main.cfg 
 
     - name: Run wmlscope and filter out findings from core
       run: |
-        wesnoth/data/tools/wmlscope -d wesnoth/data/core . > >(grep -v "wesnoth") 2> >(grep -v "wesnoth" >&2)
+        wesnoth/data/tools/wmlscope -d wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg  > >(grep -v "wesnoth") 2> >(grep -v "wesnoth" >&2)
