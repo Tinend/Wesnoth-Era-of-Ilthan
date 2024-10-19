@@ -9,22 +9,21 @@ jobs:
     - name: Check out the repository
       uses: actions/checkout@v4
 
-    - name: Clone Wesnoth 1.18 without checkout
+    - name: Clone Wesnoth 1.18 without checkout17
       run: |
         git clone --no-checkout https://github.com/wesnoth/wesnoth.git
 
     - name: Initialize sparse checkout
       run: |
-	git --git-dir wesnoth sparse-checkout init
+        git --git-dir wesnoth sparse-checkout init
 
     - name: Set sparse checkout to only fetch the data/ directory
       run: |
-	git --git-dir wesnoth sparse-checkout set data
+        git --git-dir wesnoth sparse-checkout set data
 
     - name: Checkout branch 1.18
       run: |
-	git --git-dir wesnoth checkout 1.18
-	
+        git --git-dir wesnoth checkout 1.18
 
     - name: Run wmllint
       run: |
