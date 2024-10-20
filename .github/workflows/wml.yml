@@ -9,34 +9,36 @@ jobs:
     - name: Check out the repository
       uses: actions/checkout@v4
 
+    - name: Create temporary directory to check out wesnoth
+      run: |
+        wesnoth_dir=$(mktemp -d)
+
     - name: Clone the Wesnoth Github repository without checking it out.
       run: |
-        git clone --filter=blob:none --no-checkout --depth 1 --sparse --branch 1.18 https://github.com/wesnoth/wesnoth.git
+        git clone --filter=blob:none --no-checkout --depth 1 --sparse --branch 1.18 https://github.com/wesnoth/wesnoth.git "$wesnoth_dir"
 
     - name: Set sparse checkout to only fetch the data/ directory
-      working-directory: ./wesnoth
       run: |
-        git sparse-checkout set data
+        git -C "$wesnoth_dir" sparse-checkout set data
 
     - name: Checkout branch 1.18
-      working-directory: ./wesnoth
       run: |
-        git checkout
+        git -C "$wesnoth_dir" checkout
 
     - name: Run wmllint and filter out findings from core and fail if the output is non-empty
       run: |
         wmllint_out=$(mktemp) &&
-        wesnoth/data/tools/wmllint -S -d wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | grep -v "wesnoth" > "$wmllint_out" &&
+        "$wesnoth_dir/data/tools/wmllint" -S -d "$wesnoth_dir/data/core" . 2>&1 | grep -v "wesnoth" > "$wmllint_out" &&
         if [ -s "$wmllint_out"  ]; then { cat "$wmllint_out" ; false; } fi
 
     - name: Run wmlindent and fail if the output is non-empty
       run: |
         wmlindent_out=$(mktemp) &&
-        wesnoth/data/tools/wmlindent -d utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | cat > "$wmllindent_out" &&
+        "$wesnoth_dir/data/tools/wmlindent" -d . 2>&1 | cat > "$wmllindent_out" &&
         if [ -s "$wmlindent_out"  ]; then { cat "$wmlindent_out" ; false; } fi
 
     - name: Run wmlscope and filter out findings from core and fail if the output is non-empty
       run: |
         wmlscope_out=$(mktemp) &&
-        wesnoth/data/tools/wmlscope wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | grep -v "wesnoth" > "$wmlscope_out" &&
+        "$wesnoth_dir/data/tools/wmlscope" "$wesnoth_dir/data/core" . 2>&1 | grep -v "wesnoth" > "$wmlscope_out" &&
         if [ -s "$wmlscope_out"  ]; then { cat "$wmlscope_out" ; false; } fi
