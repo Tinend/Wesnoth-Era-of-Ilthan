@@ -1,3 +1,5 @@
+[![WML](https://github.com/Tinend/Wesnoth-Era-of-Ilthan/actions/workflows/wml.yml/badge.svg)](https://github.com/Tinend/Wesnoth-Era-of-Ilthan/actions/workflows/wml.yml)
+
 # Era of Ilthan
 
 **Era of Ilthan** is a multiplayer era for *The Battle for Wesnoth*, a free and open-source, turn-based strategy game set in a high-fantasy world. Wesnoth offers a flexible environment for creating custom content such as campaigns, units, and eras, allowing players to build and share their own scenarios and factions.
