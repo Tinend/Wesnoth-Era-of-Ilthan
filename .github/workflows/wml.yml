@@ -33,4 +33,4 @@ jobs:
 
     - name: Run wmlscope and filter out findings from core
       run: |
-        wesnoth/data/tools/wmlscope -d wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg  > >(grep -v "wesnoth") 2> >(grep -v "wesnoth" >&2)
+        wesnoth/data/tools/wmlscope wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg > >(grep -v "wesnoth" | grep -v "^#") 2> >(grep -v "wesnoth" >&2)
