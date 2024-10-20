@@ -27,22 +27,16 @@ jobs:
       run: |
         wmllint_out=$(mktemp) &&
         wesnoth/data/tools/wmllint -S -d wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | grep -v "wesnoth" > "$wmllint_out" &&
-        [[ -s "$wmllint_out" ]] &&
-        cat "$wmllint_out" &&
-        false
+        if [ -s "$wmllint_out"  ]; then { cat "$wmllint_out" ; false } fi
 
     - name: Run wmlindent and fail if the output is non-empty
       run: |
         wmlindent_out=$(mktemp) &&
         wesnoth/data/tools/wmlindent -d utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | cat > "$wmllindent_out" &&
-        [[ -s "$wmlindent_out" ]] &&
-        cat "$wmlindent_out" &&
-        false
+        if [ -s "$wmlindent_out"  ]; then { cat "$wmlindent_out" ; false } fi
 
     - name: Run wmlscope and filter out findings from core and fail if the output is non-empty
       run: |
         wmlscope_out=$(mktemp) &&
         wesnoth/data/tools/wmlscope wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | grep -v "wesnoth" > "$wmlscope_out" &&
-        [[ -s "$wmlscope_out" ]] &&
-        cat "$wmlscope_out" &&
-        false
+        if [ -s "$wmlscope_out"  ]; then { cat "$wmlscope_out" ; false } fi
