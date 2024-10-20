@@ -28,17 +28,17 @@ jobs:
     - name: Run wmllint and filter out findings from core and fail if the output is non-empty
       run: |
         wmllint_out=$(mktemp);
-        "$wesnoth_dir/data/tools/wmllint" -S -d "$wesnoth_dir/data/core" . 2>&1 | grep -v "wesnoth_repo" > "$wmllint_out";
+        "$wesnoth_dir/data/tools/wmllint" -S -d "$wesnoth_dir/data/core" . 2>&1 | grep -v "wesnoth_repo" > "$wmllint_out" || true;
         if [ -s "$wmllint_out"  ]; then { cat "$wmllint_out" ; false; } fi
 
     - name: Run wmlindent and fail if the output is non-empty
       run: |
         wmlindent_out=$(mktemp);
-        "$wesnoth_dir/data/tools/wmlindent" -d . 2>&1 | cat > "$wmllindent_out";
+        "$wesnoth_dir/data/tools/wmlindent" -d . 2>&1 | cat > "$wmllindent_out" || true;
         if [ -s "$wmlindent_out"  ]; then { cat "$wmlindent_out" ; false; } fi
 
     - name: Run wmlscope and filter out findings from core and fail if the output is non-empty
       run: |
         wmlscope_out=$(mktemp);
-        "$wesnoth_dir/data/tools/wmlscope" "$wesnoth_dir/data/core" . 2>&1 | grep -v "wesnoth_repo" > "$wmlscope_out";
+        "$wesnoth_dir/data/tools/wmlscope" "$wesnoth_dir/data/core" . 2>&1 | grep -v "wesnoth_repo" > "$wmlscope_out" || true;
         if [ -s "$wmlscope_out"  ]; then { cat "$wmlscope_out" ; false; } fi
