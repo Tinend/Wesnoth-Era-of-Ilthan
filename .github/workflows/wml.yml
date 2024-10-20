@@ -31,7 +31,7 @@ jobs:
         cat "$wmllint_out" &&
         false
 
-    - name: Run wmlindent
+    - name: Run wmlindent and fail if the output is non-empty
       run: |
         wmlindent_out=$(mktemp) &&
         wesnoth/data/tools/wmlindent -d utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | cat > "$wmllindent_out" &&
