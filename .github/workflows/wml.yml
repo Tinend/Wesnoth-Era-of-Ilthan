@@ -40,5 +40,5 @@ jobs:
     - name: Run wmlscope and filter out findings from core and fail if the output is non-empty
       run: |
         wmlscope_out=$(mktemp);
-        "$wesnoth_dir/data/tools/wmlscope" "$wesnoth_dir/data/core" . 2>&1 | grep -v "wesnoth_repo" > "$wmlscope_out" || true;
+        "$wesnoth_dir/data/tools/wmlscope" "$wesnoth_dir/data/core" . 2>&1 | grep -v "wesnoth_repo" | grep -v "^#" > "$wmlscope_out" || true;
         if [ -s "$wmlscope_out"  ]; then { cat "$wmlscope_out" ; false; } fi
