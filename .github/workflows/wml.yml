@@ -23,14 +23,26 @@ jobs:
       run: |
         git checkout
 
-    - name: Run wmllint and filter out findings from core
+    - name: Run wmllint and filter out findings from core and fail if the output is non-empty
       run: |
-        wesnoth/data/tools/wmllint -S -d wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg > >(grep -v "wesnoth") 2> >(grep -v "wesnoth" >&2)
+        wmllint_out=$(mktemp) &&
+        wesnoth/data/tools/wmllint -S -d wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | grep -v "wesnoth" > "$wmllint_out" &&
+	[[ -s "$wmllint_out" ]] &&
+	cat "$wmllint_out" &&
+	false
 
     - name: Run wmlindent
       run: |
-        wesnoth/data/tools/wmlindent -d utils units factions Era_of_Ilthan_Units.cfg _main.cfg 
+        wmlindent_out=$(mktemp) &&
+        wesnoth/data/tools/wmlindent -d utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | cat > "$wmllindent_out" &&
+	[[ -s "$wmlindent_out" ]] &&
+	cat "$wmlindent_out" &&
+	false
 
-    - name: Run wmlscope and filter out findings from core
+    - name: Run wmlscope and filter out findings from core and fail if the output is non-empty
       run: |
-        wesnoth/data/tools/wmlscope wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg > >(grep -v "wesnoth" | grep -v "^#") 2> >(grep -v "wesnoth" >&2)
+        wmlscope_out=$(mktemp) &&
+        wesnoth/data/tools/wmlscope wesnoth/data/core utils units factions Era_of_Ilthan_Units.cfg _main.cfg 2>&1 | grep -v "wesnoth" > "$wmlscope_out" &&
+	[[ -s "$wmlscope_out" ]] &&
+	cat "$wmlscope_out" &&
+	false
