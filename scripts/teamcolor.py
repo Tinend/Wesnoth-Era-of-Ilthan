@@ -36,7 +36,7 @@ def is_near_team_color(pixel_rgb, team_colors, tolerance):
     # Check each target team color for near matches
     for team_rgb in team_colors:
         if is_close_color(pixel_rgb, team_rgb, tolerance):
-            return True
+            return team_rgb
 
     return False
 
@@ -53,17 +53,16 @@ def find_near_team_colors(image_path, team_colors, tolerance):
     for y in range(img_data.shape[0]):
         for x in range(img_data.shape[1]):
             pixel_rgb = tuple(img_data[y, x][:3])
-            if is_near_team_color(pixel_rgb, team_colors, tolerance):
-                close_color_coords.append((x, y, pixel_rgb))
+            team_rgb = is_near_team_color(pixel_rgb, team_colors, tolerance)
+            if team_rgb:
+                close_color_coords.append((x, y, pixel_rgb, team_rgb))
 
     # Output results
     if close_color_coords:
         print(f"Found {len(close_color_coords)} pixels close to team colors in '{image_path}':")
         for coord in close_color_coords:
-            x, y, color = coord
-            print(f" - Pixel at ({x}, {y}) has RGB {color}, close to a team color.")
-    else:
-        print(f"No near-team colors found in '{image_path}'.")
+            x, y, color, team_color = coord
+            print(f" - Pixel at ({x}, {y}) has RGB {color}, close to team color {team_color}.")
 
 def process_directory_recursively(directory, team_colors, tolerance):
     """Call find_near_team_colors for every PNG image in the given directory and all subdirectories."""
