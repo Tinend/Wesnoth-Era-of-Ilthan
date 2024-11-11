@@ -1,0 +1,3679 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-11-11 22:26 UTC\n"
+"PO-Revision-Date: 2024-11-11 23:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#. [era]: id=EOI_era_of_ilthan
+#: Era_of_Ilthan/_main.cfg:12
+msgid "Era of Ilthan"
+msgstr "Ilthan Ära"
+
+#. [era]: id=EOI_era_of_ilthan_heroes
+#: Era_of_Ilthan/_main.cfg:28
+msgid "Era of Ilthan Heroes"
+msgstr "Ilthan Ära Helden"
+
+#. [multiplayer_side]: id=EOI_artons, type=EOI_watchman
+#. [multiplayer_side]: id=EOI_artons_heroes, type=EOI_defender_of_artonia
+#: Era_of_Ilthan/factions/artons.cfg:4
+#: Era_of_Ilthan/factions/artons_heroes.cfg:4
+msgid "Artons"
+msgstr "Artonier"
+
+#. [multiplayer_side]: id=EOI_black_army, type=EOI_black_count
+#. [multiplayer_side]: id=EOI_black_army_heroes, type=EOI_black_duke
+#: Era_of_Ilthan/factions/black_army.cfg:4
+#: Era_of_Ilthan/factions/black_army_heroes.cfg:4
+msgid "Black Army"
+msgstr "Schwarze Armee"
+
+#. [multiplayer_side]: id=EOI_black_army, type=EOI_black_count
+#. [multiplayer_side]: id=EOI_black_army_heroes, type=EOI_black_duke
+#: Era_of_Ilthan/factions/black_army.cfg:5
+#: Era_of_Ilthan/factions/black_army_heroes.cfg:5
+msgid ""
+"The Black Army is a dark force that combines impenetrable heavy infantry, "
+"ruthless cavalry, cunning assassins, and overwhelming siege power. Known for "
+"their heavy black armor and unyielding resolve, they march from their "
+"mountainous strongholds to dominate the island with their formidable siege "
+"tactics and elite fighters. With an unusual blend of fierce dogs and "
+"stealthy ninjas alongside their fearsome heavy units, they strike a balance "
+"between raw power and calculated destruction. Each member fights with "
+"relentless discipline, and their allegiance to the dark cause has corrupted "
+"even the honorable Uralians among them. Led by powerful dukes and counts, "
+"the Black Army is a relentless force with one goal: conquest at any cost."
+msgstr ""
+"Die Schwarze Armee ist eine dunkle Macht, die eine undurchdringliche schwere "
+"Infanterie, unbarmherzige Kavallerie, gerissene Meuchelmörder und eine "
+"überwältigende Belagerungsmacht vereint. Bekannt für ihre schweren schwarzen "
+"Rüstungen und ihre unnachgiebige Entschlossenheit, marschieren sie von ihren "
+"bergigen Hochburgen aus, um die Insel mit ihrer gewaltigen Belagerungstaktik "
+"und ihren Elitekämpfern zu beherrschen. Mit einer ungewöhnlichen Mischung "
+"aus wilden Hunden und verstohlenen Ninjas an der Seite ihrer "
+"furchterregenden schweren Einheiten schaffen sie ein Gleichgewicht zwischen "
+"roher Kraft und kalkulierter Zerstörung. Jedes Mitglied kämpft mit "
+"unerbittlicher Disziplin, und ihre Treue zur dunklen Sache hat selbst die "
+"ehrenhaften Uralianer unter ihnen korrumpiert. Angeführt von mächtigen "
+"Herzögen und Grafen ist die Schwarze Armee eine unerbittliche Streitmacht "
+"mit einem einzigen Ziel: Eroberung um jeden Preis."
+
+#. [multiplayer_side]: id=EOI_desert_undead, type=EOI_ancient_mummy
+#. [multiplayer_side]: id=EOI_desert_undead_heroes, type=EOI_prince
+#: Era_of_Ilthan/factions/desert_undead.cfg:4
+#: Era_of_Ilthan/factions/desert_undead_heroes.cfg:4
+msgid "The Desert Undead"
+msgstr "Wüsten Untote"
+
+#. [multiplayer_side]: id=EOI_desert_undead, type=EOI_ancient_mummy
+#. [multiplayer_side]: id=EOI_desert_undead_heroes, type=EOI_prince
+#: Era_of_Ilthan/factions/desert_undead.cfg:5
+#: Era_of_Ilthan/factions/desert_undead_heroes.cfg:5
+msgid ""
+"The Desert Undead faction combines relentless melee fighters, skilled "
+"archers, and powerful mummies, each embodying a fragment of their lost "
+"kingdom’s former glory. Cursed to serve even in death, they form an "
+"implacable force, with resilient guards to hold the frontlines and lethal "
+"units like the Dread Slayer to cut down the wounded. Led by mummified "
+"priests and noble pharaohs, the Desert Undead march forward with ancient "
+"precision, wielding both strength and dark magic to overwhelm any who enter "
+"their desolate lands."
+msgstr ""
+"Die Fraktion der Wüstenuntoten vereint unerbittliche Nahkämpfer, geschickte "
+"Bogenschützen und mächtige Mumien, die jeweils ein Fragment des einstigen "
+"Ruhms ihres verlorenen Königreichs verkörpern. Sie sind verflucht, selbst im "
+"Tod zu dienen, und bilden eine unerbittliche Streitmacht mit "
+"widerstandsfähigen Wachen, die die Frontlinien halten, und tödlichen "
+"Einheiten wie dem Dread Slayer, der die Verwundeten niederstreckt. Angeführt "
+"von mumifizierten Priestern und edlen Pharaonen marschieren die Untoten der "
+"Wüste mit altertümlicher Präzision vorwärts, wobei sie sowohl Stärke als "
+"auch dunkle Magie einsetzen, um jeden zu überwältigen, der ihre trostlosen "
+"Länder betritt."
+
+#. [multiplayer_side]: id=EOI_earthmen, type=EOI_warrior
+#. [multiplayer_side]: id=EOI_earthmen_heroes, type=EOI_king
+#: Era_of_Ilthan/factions/earthmen.cfg:4
+#: Era_of_Ilthan/factions/earthmen_heroes.cfg:4
+msgid "Earthmen"
+msgstr "Erdmännchen"
+
+#. [multiplayer_side]: id=EOI_earthmen, type=EOI_warrior
+#. [multiplayer_side]: id=EOI_earthmen_heroes, type=EOI_king
+#: Era_of_Ilthan/factions/earthmen.cfg:5
+#: Era_of_Ilthan/factions/earthmen_heroes.cfg:5
+msgid ""
+"The earthmen faction is a unique blend of the cautious, resourceful earthmen "
+"and the raw power of the creatures they capture, known as the earth "
+"monsters. This alliance is one forged out of necessity and careful "
+"management, with each member playing a distinct role. Earthmen rely on their "
+"collective strategy and numbers, using their specialized skills to build "
+"traps, coordinate attacks, and control the flow of battle. Meanwhile, the "
+"earth monsters add strength and versatility, filling in the gaps where "
+"earthmen lack power or agility. Together, they form a defensive force well-"
+"suited to the caves they call home, a faction that values unity, "
+"adaptability, and resilience against any who dare to intrude upon their "
+"hidden realm."
+msgstr ""
+"Die Erdmenschenfraktion ist eine einzigartige Mischung aus den vorsichtigen, "
+"einfallsreichen Erdmenschen und der rohen Kraft der von ihnen erbeuteten "
+"Kreaturen, die als Erdmonster bekannt sind. Dieses Bündnis wurde aus der Not "
+"heraus geschmiedet und sorgfältig verwaltet, wobei jedes Mitglied eine "
+"bestimmte Rolle spielt. Die Erdbewohner verlassen sich auf ihre kollektive "
+"Strategie und ihre zahlenmäßige Überlegenheit, indem sie ihre speziellen "
+"Fähigkeiten einsetzen, um Fallen zu bauen, Angriffe zu koordinieren und den "
+"Ablauf der Schlacht zu kontrollieren. In der Zwischenzeit sorgen die "
+"Erdmonster für Stärke und Vielseitigkeit und füllen die Lücken, in denen es "
+"den Erdmenschen an Kraft oder Beweglichkeit fehlt. Gemeinsam bilden sie eine "
+"Verteidigungsstreitmacht, die gut an die Höhlen, die sie ihr Zuhause nennen, "
+"angepasst ist, eine Fraktion, die Einigkeit, Anpassungsfähigkeit und "
+"Widerstandsfähigkeit gegen jeden schätzt, der es wagt, in ihr verborgenes "
+"Reich einzudringen."
+
+#. [multiplayer_side]: id=EOI_lizard_alliance, type=EOI_giant_lizard
+#. [multiplayer_side]: id=EOI_lizard_alliance_heroes, type=EOI_royal_lizard
+#: Era_of_Ilthan/factions/lizard_alliance.cfg:4
+#: Era_of_Ilthan/factions/lizard_alliance_heroes.cfg:4
+msgid "The Lizard Alliance"
+msgstr "Echsen Allianz"
+
+#. [multiplayer_side]: id=EOI_mountain_mages, type=EOI_armored_mage
+#. [multiplayer_side]: id=EOI_mountain_mages_heroes, type=EOI_red_mage
+#: Era_of_Ilthan/factions/mountain_mages.cfg:4
+#: Era_of_Ilthan/factions/mountain_mages_heroes.cfg:4
+msgid "Mountain Mages"
+msgstr "Berg Magier"
+
+#. [multiplayer_side]: id=EOI_swamp_undead, type=EOI_dark_sorcerer
+#. [multiplayer_side]: id=EOI_swamp_undead_heroes, type=EOI_warlock
+#: Era_of_Ilthan/factions/swamp_undead.cfg:4
+#: Era_of_Ilthan/factions/swamp_undead_heroes.cfg:4
+msgid "The Swamp Undead"
+msgstr "Sumpfuntote"
+
+#. [multiplayer_side]: id=EOI_wood_pirates, type=EOI_corsair
+#. [multiplayer_side]: id=EOI_wood_pirates_heroes, type=EOI_captain
+#: Era_of_Ilthan/factions/wood_pirates.cfg:4
+#: Era_of_Ilthan/factions/wood_pirates_heroes.cfg:4
+msgid "The Wood Pirates"
+msgstr "Waldpiraten"
+
+#. [era]: id=EOI_era_of_ilthan_testing
+#: Era_of_Ilthan/test.cfg:4
+msgid "Era of Ilthan TESTING"
+msgstr ""
+
+#. [unit_type]: id=EOI_bow_soldier, race=EOI_human
+#: Era_of_Ilthan/units/artons/bow_soldier.cfg:4
+msgid "Bow Soldier"
+msgstr ""
+
+#. [unit_type]: id=EOI_bow_soldier, race=EOI_human
+#: Era_of_Ilthan/units/artons/bow_soldier.cfg:17
+msgid ""
+"If bowmen become really good, they get a definite place in the Artonian "
+"army. They get expensive longbows with wich they use to shoot enemies a long "
+"time before the enemies can shoot back. The bowsoldiers are extremely "
+"skilled in hitting small targets from far away, so you can't even hide in "
+"the forest to avoid being shot."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/artons/bow_soldier.cfg:23
+#: Era_of_Ilthan/units/artons/royal_bowman.cfg:24
+#: Era_of_Ilthan/units/black_army/black_archer.cfg:24
+#: Era_of_Ilthan/units/wood_pirates/wood_rider.cfg:31
+msgid "short sword"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/artons/bow_soldier.cfg:40
+#: Era_of_Ilthan/units/artons/royal_bowman.cfg:41
+#: Era_of_Ilthan/units/wood_pirates/wood_longbowman.cfg:62
+msgid "longbow"
+msgstr ""
+
+#. [unit_type]: id=EOI_bowman, race=EOI_human
+#: Era_of_Ilthan/units/artons/bowman.cfg:4
+msgid "Bowman"
+msgstr ""
+
+#. [unit_type]: id=EOI_bowman, race=EOI_human
+#: Era_of_Ilthan/units/artons/bowman.cfg:17
+msgid ""
+"The Artons have the best bowmen on the whole island of Ilthan. This is the "
+"main part of the Ilthan army. The young Artons have to make a test before "
+"they come into the army and only the best archers become bowmen, the others "
+"have to become swordsmen."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/artons/bowman.cfg:26
+#: Era_of_Ilthan/units/wood_pirates/blowgunner.cfg:35
+msgid "knife"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/artons/bowman.cfg:43
+#: Era_of_Ilthan/units/black_army/black_archer.cfg:51
+#: Era_of_Ilthan/units/desert_undead/dune_bowman.cfg:33
+#: Era_of_Ilthan/units/desert_undead/longbow_of_the_sands.cfg:33
+#: Era_of_Ilthan/units/desert_undead/sand_archer.cfg:33
+#: Era_of_Ilthan/units/wood_pirates/boatman.cfg:48
+#: Era_of_Ilthan/units/wood_pirates/canoe.cfg:50
+#: Era_of_Ilthan/units/wood_pirates/wood_bowman.cfg:61
+#: Era_of_Ilthan/units/wood_pirates/wood_knight.cfg:60
+#: Era_of_Ilthan/units/wood_pirates/wood_rider.cfg:59
+msgid "bow"
+msgstr ""
+
+#. [unit_type]: id=EOI_cavalry, race=EOI_human
+#: Era_of_Ilthan/units/artons/cavalry.cfg:4
+msgid "Cavalry"
+msgstr ""
+
+#. [unit_type]: id=EOI_cavalry, race=EOI_human
+#: Era_of_Ilthan/units/artons/cavalry.cfg:17
+msgid "The noble Artons prefer to ride into the battle. "
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/artons/cavalry.cfg:22
+#: Era_of_Ilthan/units/artons/cuirassier.cfg:24
+#: Era_of_Ilthan/units/artons/defender_of_artonia.cfg:30
+#: Era_of_Ilthan/units/artons/dragoon.cfg:23
+#: Era_of_Ilthan/units/artons/swordsman.cfg:23
+#: Era_of_Ilthan/units/artons/watchman.cfg:29
+#: Era_of_Ilthan/units/black_army/black_count.cfg:26
+#: Era_of_Ilthan/units/black_army/black_crossbowman.cfg:24
+#: Era_of_Ilthan/units/black_army/black_duke.cfg:27
+#: Era_of_Ilthan/units/black_army/heavy_crossbowman.cfg:24
+#: Era_of_Ilthan/units/black_army/incendiarist.cfg:23
+#: Era_of_Ilthan/units/black_army/light_infantry.cfg:22
+#: Era_of_Ilthan/units/black_army/pillager.cfg:23
+#: Era_of_Ilthan/units/mountain_mages/armored_mage.cfg:38
+#: Era_of_Ilthan/units/mountain_mages/fighting_mage.cfg:23
+#: Era_of_Ilthan/units/mountain_mages/mage_swordmaster.cfg:24
+#: Era_of_Ilthan/units/mountain_mages/war_mage.cfg:23
+#: Era_of_Ilthan/units/wood_pirates/captain.cfg:34
+#: Era_of_Ilthan/units/wood_pirates/corsair.cfg:33
+#: Era_of_Ilthan/units/wood_pirates/men_hunter.cfg:37
+#: Era_of_Ilthan/units/wood_pirates/pirate.cfg:33
+#: Era_of_Ilthan/units/wood_pirates/wood_knight.cfg:32
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=EOI_cuirassier, race=EOI_human
+#: Era_of_Ilthan/units/artons/cuirassier.cfg:4
+msgid "Cuirassier"
+msgstr ""
+
+#. [unit_type]: id=EOI_cuirassier, race=EOI_human
+#. [unit_type]: id=EOI_dragoon, race=EOI_human
+#: Era_of_Ilthan/units/artons/cuirassier.cfg:18
+#: Era_of_Ilthan/units/artons/dragoon.cfg:17
+msgid " - "
+msgstr ""
+
+#. [unit_type]: id=EOI_defender_of_artonia, race=EOI_human
+#: Era_of_Ilthan/units/artons/defender_of_artonia.cfg:4
+msgid "Defender of Artonia"
+msgstr ""
+
+#. [unit_type]: id=EOI_defender_of_artonia, race=EOI_human
+#: Era_of_Ilthan/units/artons/defender_of_artonia.cfg:18
+msgid ""
+"Defenders of Artonia have brought their skill with their swords to "
+"perfection and are extremely hard to kill."
+msgstr ""
+
+#. [unit_type]: id=EOI_defender_of_the_crown, race=EOI_human
+#: Era_of_Ilthan/units/artons/defender_of_the_crown.cfg:4
+msgid "Defender of the Crown"
+msgstr ""
+
+#. [unit_type]: id=EOI_defender_of_the_crown, race=EOI_human
+#: Era_of_Ilthan/units/artons/defender_of_the_crown.cfg:18
+msgid ""
+"The only possibility to earn more respect than a bowman in Artonia is to "
+"become a defender of the crown, only the most famous knights of Artonia are "
+"awarded with this title."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/artons/defender_of_the_crown.cfg:28
+#: Era_of_Ilthan/units/artons/golden_galloper.cfg:27
+msgid "lance"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/artons/defender_of_the_crown.cfg:66
+#: Era_of_Ilthan/units/artons/golden_galloper.cfg:65
+#: Era_of_Ilthan/units/artons/seed_runner.cfg:66
+#: Era_of_Ilthan/units/black_army/light_cavalry.cfg:74
+msgid "javelin"
+msgstr ""
+
+#. [unit_type]: id=EOI_dragon_sword_warrior, race=EOI_human
+#: Era_of_Ilthan/units/artons/dragon_sword_warrior.cfg:4
+msgid "Dragon Sword Warror"
+msgstr ""
+
+#. [unit_type]: id=EOI_dragon_sword_warrior, race=EOI_human
+#: Era_of_Ilthan/units/artons/dragon_sword_warrior.cfg:17
+msgid ""
+"Dragon sword warriors bear mighty dragon swords and use to kill every enemy "
+"with a single blow."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/artons/dragon_sword_warrior.cfg:23
+msgid "dragon sword"
+msgstr ""
+
+#. [unit_type]: id=EOI_dragoon, race=EOI_human
+#: Era_of_Ilthan/units/artons/dragoon.cfg:4
+msgid "Dragoon"
+msgstr ""
+
+#. [unit_type]: id=EOI_golden_galloper, race=EOI_human
+#: Era_of_Ilthan/units/artons/golden_galloper.cfg:4
+msgid "Golden Galloper"
+msgstr ""
+
+#. [unit_type]: id=EOI_golden_galloper, race=EOI_human
+#: Era_of_Ilthan/units/artons/golden_galloper.cfg:17
+msgid ""
+"The Artonian knights are famous for their courage and they use to attack the "
+"enemies before they get an order to do so."
+msgstr ""
+
+#. [unit_type]: id=EOI_great_sword_warrior, race=EOI_human
+#: Era_of_Ilthan/units/artons/great_sword_warrior.cfg:4
+msgid "Great Sword Warrior"
+msgstr ""
+
+#. [unit_type]: id=EOI_great_sword_warrior, race=EOI_human
+#: Era_of_Ilthan/units/artons/great_sword_warrior.cfg:17
+msgid ""
+"Some swordsmen decide to go into a more offensive direction and take big "
+"swords."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/artons/great_sword_warrior.cfg:26
+msgid "great sword"
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_of_the_inner_order, race=EOI_human
+#: Era_of_Ilthan/units/artons/mage_of_the_inner_order.cfg:4
+msgid "Mage of the inner Order"
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_of_the_inner_order, race=EOI_human
+#: Era_of_Ilthan/units/artons/mage_of_the_inner_order.cfg:18
+msgid ""
+"The best mages of Arton are accepted as members of the inner order. They "
+"have a lot of power in Artonia and some say, that even the king himself has "
+"to do what the mages of the inner order tell him to do."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/artons/mage_of_the_inner_order.cfg:28
+#: Era_of_Ilthan/units/artons/mage_of_the_outer_order.cfg:27
+#: Era_of_Ilthan/units/artons/young_mage.cfg:23
+#: Era_of_Ilthan/units/earthmen/cord_weaver.cfg:21
+#: Era_of_Ilthan/units/earthmen/master_builder.cfg:22
+#: Era_of_Ilthan/units/earthmen/net_thrower.cfg:22
+#: Era_of_Ilthan/units/earthmen/slinger.cfg:22
+#: Era_of_Ilthan/units/earthmen/stone_thrower.cfg:21
+#: Era_of_Ilthan/units/earthmen/worker.cfg:21
+#: Era_of_Ilthan/units/mountain_mages/ice_flade.cfg:29
+#: Era_of_Ilthan/units/mountain_mages/snow_finder.cfg:23
+#: Era_of_Ilthan/units/mountain_mages/whirlwind.cfg:28
+#: Era_of_Ilthan/units/swamp_undead/giant_zombie.cfg:29
+#: Era_of_Ilthan/units/swamp_undead/soulless.cfg:28
+#: Era_of_Ilthan/units/swamp_undead/soulless_rider.cfg:21
+#: Era_of_Ilthan/units/swamp_undead/soulless_slinger.cfg:32
+#: Era_of_Ilthan/units/swamp_undead/swam_rider.cfg:44
+#: Era_of_Ilthan/units/swamp_undead/walking_corpse.cfg:29
+#: Era_of_Ilthan/units/swamp_undead/walking_corpse_slinger.cfg:48
+msgid "fist"
+msgstr ""
+
+#. [attack]: type=fire
+#. [attack]: type=cold
+#: Era_of_Ilthan/units/artons/mage_of_the_inner_order.cfg:48
+#: Era_of_Ilthan/units/artons/mage_of_the_outer_order.cfg:48
+#: Era_of_Ilthan/units/artons/young_mage.cfg:44
+#: Era_of_Ilthan/units/mountain_mages/armored_mage.cfg:56
+#: Era_of_Ilthan/units/mountain_mages/fighting_mage.cfg:41
+#: Era_of_Ilthan/units/mountain_mages/flying_mage.cfg:26
+#: Era_of_Ilthan/units/mountain_mages/flying_master.cfg:25
+#: Era_of_Ilthan/units/mountain_mages/mage.cfg:42
+#: Era_of_Ilthan/units/mountain_mages/mage_swordmaster.cfg:42
+#: Era_of_Ilthan/units/mountain_mages/war_mage.cfg:41
+msgid "magic missile"
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_of_the_outer_order, race=EOI_human
+#: Era_of_Ilthan/units/artons/mage_of_the_outer_order.cfg:4
+msgid "Mage of the outer Order"
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_of_the_outer_order, race=EOI_human
+#: Era_of_Ilthan/units/artons/mage_of_the_outer_order.cfg:17
+msgid ""
+"If a mage proves to be talented, he is accepted as a member of the outer "
+"order. The mages of the outer order have sometimes more political power than "
+"they should have."
+msgstr ""
+
+#. [unit_type]: id=EOI_royal_bowman, race=EOI_human
+#: Era_of_Ilthan/units/artons/royal_bowman.cfg:4
+msgid "Royal Bowman"
+msgstr ""
+
+#. [unit_type]: id=EOI_royal_bowman, race=EOI_human
+#: Era_of_Ilthan/units/artons/royal_bowman.cfg:18
+msgid ""
+"The royal bowmen are the best elite troop of the Artonian kingdom and can "
+"hit the enemy even from very far away."
+msgstr ""
+
+#. [unit_type]: id=EOI_seed_runner, race=EOI_human
+#: Era_of_Ilthan/units/artons/seed_runner.cfg:4
+msgid "Seed Runner"
+msgstr ""
+
+#. [unit_type]: id=EOI_seed_runner, race=EOI_human
+#: Era_of_Ilthan/units/artons/seed_runner.cfg:17
+msgid ""
+"The noble Artons prefer to ride into the battle. Their charges are almost as "
+"feared as the arrows of the Artonian bowmen."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/artons/seed_runner.cfg:27
+#: Era_of_Ilthan/units/black_army/light_cavalry.cfg:23
+#: Era_of_Ilthan/units/black_army/scout.cfg:24
+#: Era_of_Ilthan/units/black_army/scout.cfg:50
+#: Era_of_Ilthan/units/lizard_alliance/uralian_lord.cfg:24
+#: Era_of_Ilthan/units/lizard_alliance/uralian_spearmaster.cfg:23
+#: Era_of_Ilthan/units/lizard_alliance/uralian_swimmer.cfg:23
+msgid "spear"
+msgstr ""
+
+#. [unit_type]: id=EOI_swordsman, race=EOI_human
+#: Era_of_Ilthan/units/artons/swordsman.cfg:4
+msgid "Swordsman"
+msgstr ""
+
+#. [unit_type]: id=EOI_swordsman, race=EOI_human
+#: Era_of_Ilthan/units/artons/swordsman.cfg:17
+msgid ""
+"Most Artons are very sad if they become swordsmen, because most prefer to "
+"become bowmen, but of course, they know, that they are necessary to protect "
+"the bowmen, so they have a very important role, too."
+msgstr ""
+
+#. [unit_type]: id=EOI_watchman, race=EOI_human
+#: Era_of_Ilthan/units/artons/watchman.cfg:4
+msgid "Watchman"
+msgstr ""
+
+#. [unit_type]: id=EOI_watchman, race=EOI_human
+#: Era_of_Ilthan/units/artons/watchman.cfg:17
+msgid ""
+"If swordsmen become better, they have the choice to become more offensive or "
+"more defensive. Most decide to get a shield and then, they can hold the "
+"enemies up for a longer time, so the bowmen have more time to shoot them."
+msgstr ""
+
+#. [unit_type]: id=EOI_young_mage, race=EOI_human
+#: Era_of_Ilthan/units/artons/young_mage.cfg:4
+msgid "Young Mage"
+msgstr ""
+
+#. [unit_type]: id=EOI_young_mage, race=EOI_human
+#: Era_of_Ilthan/units/artons/young_mage.cfg:17
+msgid ""
+"The mountain mages teached the Artons how to use magic and now they founded "
+"magic schools, were the more intelligent noble have the possibility to learn "
+"this. The order of the mages is one of the most powerful institutions in "
+"Artonia and some say, that they even had more to say than the king himself."
+msgstr ""
+
+#. [unit_type]: id=EOI_amored_uralian, race=EOI_uralian
+#: Era_of_Ilthan/units/black_army/armored_uralian.cfg:4
+msgid "Amored Uralian"
+msgstr ""
+
+#. [unit_type]: id=EOI_amored_uralian, race=EOI_uralian
+#: Era_of_Ilthan/units/black_army/armored_uralian.cfg:17
+msgid ""
+"Further armored and committed to the Black Army’s cause, Armored Uralians "
+"are powerful fighters capable of withstanding intense combat. In battle, "
+"their resilience and skill mark them as formidable adversaries. Once "
+"defenders of honor, they now fight with the Black Army’s ruthless tactics, "
+"their heavy armor making them nearly invulnerable to weaker foes."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/black_army/armored_uralian.cfg:23
+#: Era_of_Ilthan/units/black_army/black_fighter.cfg:23
+#: Era_of_Ilthan/units/black_army/black_knight.cfg:23
+#: Era_of_Ilthan/units/black_army/black_uralian.cfg:23
+#: Era_of_Ilthan/units/black_army/black_warrior.cfg:24
+#: Era_of_Ilthan/units/black_army/death_knight.cfg:24
+#: Era_of_Ilthan/units/black_army/heavy_infantry.cfg:23
+#: Era_of_Ilthan/units/black_army/uralian_of_death.cfg:24
+msgid "mace"
+msgstr ""
+
+#. [unit_type]: id=EOI_ballista, race=mechanical
+#: Era_of_Ilthan/units/black_army/ballista.cfg:4
+msgid "Ballista"
+msgstr ""
+
+#. [unit_type]: id=EOI_ballista, race=mechanical
+#: Era_of_Ilthan/units/black_army/ballista.cfg:17
+msgid ""
+"Unlike the small-scale raiders on the island, the Black Army wields "
+"ballistae designed to dismantle city defenses from afar. With massive arrows "
+"that pierce walls and fortifications, the ballista is a crucial tool in the "
+"Black Army’s sieges, striking fear into defenders as they watch their "
+"barriers fall."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/black_army/ballista.cfg:34
+msgid "bolt"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_archer, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/black_archer.cfg:4
+msgid "Black Archer"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_archer, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/black_archer.cfg:18
+msgid ""
+"The Black Archers are infamous not only for their skill with a bow but for "
+"their resilience in battle. Unlike most archers, they are trained to fight "
+"in close quarters if necessary, making them difficult to dislodge. Their "
+"black armor and grim discipline allow them to hold their ground while "
+"raining arrows upon enemies, instilling a lasting fear in those who face "
+"them."
+msgstr ""
+
+#. [unit_type]: id=EOI_black_count, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_count.cfg:4
+msgid "Black Count"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_count, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_count.cfg:17
+msgid ""
+"Black Counts are skilled in the art of siege, trained to lead attacks on "
+"fortified cities. Though less adept in melee than the Black Fighters, their "
+"leadership inspires nearby soldiers, directing them to break through "
+"defenses and keep a steady advance under intense conditions."
+msgstr ""
+
+#. [unit_type]: id=EOI_black_crossbowman, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/black_crossbowman.cfg:4
+msgid "Black Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_crossbowman, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/black_crossbowman.cfg:18
+msgid ""
+" Equipped with powerful crossbows, the Black Crossbowmen strike with lethal "
+"precision. Though not as nimble as other archers, their bolts are stronger "
+"and penetrate armor with ease. They are also competent in melee combat, able "
+"to defend themselves and push back when scouts or other light units attempt "
+"to break through their line."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/black_army/black_crossbowman.cfg:50
+#: Era_of_Ilthan/units/black_army/heavy_crossbowman.cfg:50
+#: Era_of_Ilthan/units/wood_pirates/captain.cfg:90
+msgid "crossbow"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_duke, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_duke.cfg:4
+msgid "Black Duke"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_duke, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_duke.cfg:18
+msgid ""
+"The Black Dukes are among the highest-ranking leaders in the Black Army, "
+"renowned for their command of both men and siege tactics. Typically, they "
+"oversee invasions from afar, but when they do take the field, their presence "
+"bolsters their troops and demoralizes the enemy. Rare and highly respected, "
+"a Black Duke’s leadership can turn the tide of any battle."
+msgstr ""
+
+#. [unit_type]: id=EOI_black_fighter, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_fighter.cfg:4
+msgid "Black Fighter"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_fighter, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_fighter.cfg:17
+msgid ""
+"Known for their immense strength, Black Fighters wield heavy maces with "
+"ease, able to break down doors and city defenses with brutal efficiency. "
+"These soldiers are frequently deployed to the frontlines in sieges, where "
+"their raw power and unyielding armor create a near-impenetrable assault "
+"force against any defenses."
+msgstr ""
+
+#. [unit_type]: id=EOI_black_knight, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_knight.cfg:4
+msgid "Black Knight"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_knight, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_knight.cfg:17
+msgid ""
+"Although the Black Army rarely fields cavalry, the Black Knights are an "
+"exception, riding into battle as a fearsome and heavily armored mounted "
+"force. Their horses are armored to match, making them as resilient as they "
+"are intimidating. These knights prefer to trample infantry underfoot, but "
+"their versatility in battle makes them invaluable when heavy assault is "
+"needed."
+msgstr ""
+
+#. [unit_type]: id=EOI_black_uralian, race=EOI_uralian
+#: Era_of_Ilthan/units/black_army/black_uralian.cfg:4
+msgid "Black Uralian"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_uralian, race=EOI_uralian
+#: Era_of_Ilthan/units/black_army/black_uralian.cfg:17
+msgid ""
+"Uralians are known across the island for their strength and honorable "
+"nature, usually siding with the righteous forces of Artonians or the Lizard "
+"Alliance. However, some have succumbed to the Black Army’s influence, "
+"donning dark armor and fighting with grim determination. These Black "
+"Uralians are a rare and ominous sight, wielding heavy weapons and forsaking "
+"their former alliances for the call of darkness."
+msgstr ""
+
+#. [unit_type]: id=EOI_black_warrior, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_warrior.cfg:4
+msgid "Black Warrior"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_warrior, race=EOI_human
+#: Era_of_Ilthan/units/black_army/black_warrior.cfg:18
+msgid ""
+"The Black Warriors are the elite fighters of the Black Army, with the "
+"strength to destroy city walls and fortifications single-handedly. Their "
+"armor is nearly impenetrable, and their skill with a mace makes them one of "
+"the most feared forces on the island. As they break through defenses, they "
+"inspire dread in all who witness their unrelenting might."
+msgstr ""
+
+#. [unit_type]: id=EOI_catapult, race=mechanical
+#: Era_of_Ilthan/units/black_army/catapult.cfg:4
+msgid "Catapult"
+msgstr ""
+
+#. [unit_type]: id=EOI_catapult, race=mechanical
+#: Era_of_Ilthan/units/black_army/catapult.cfg:18
+msgid ""
+"The catapult is a devastating weapon of the Black Army, capable of reducing "
+"even the strongest walls to rubble with a few well-placed shots. These siege "
+"engines are prized for their power and range, making them indispensable "
+"during prolonged sieges. When positioned outside a city, a single catapult "
+"can strike terror into all who seek refuge within its walls."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/black_army/catapult.cfg:34
+msgid "rock"
+msgstr ""
+
+#. [unit_type]: id=EOI_death_knight, race=EOI_human
+#: Era_of_Ilthan/units/black_army/death_knight.cfg:4
+msgid "Death Knight"
+msgstr ""
+
+#. [unit_type]: id=EOI_death_knight, race=EOI_human
+#: Era_of_Ilthan/units/black_army/death_knight.cfg:18
+msgid ""
+"The Death Knights are the elite cavalry of the Black Army, nearly impossible "
+"to kill due to their heavy armor and battlefield prowess. These riders "
+"charge directly into enemy formations, where they cut down opponents with an "
+"almost supernatural endurance. Once unleashed, Death Knights leave few "
+"survivors, riding through the enemy ranks with relentless precision."
+msgstr ""
+
+#. [unit_type]: id=EOI_elite_infantry, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/elite_infantry.cfg:4
+msgid "Elite Infantry"
+msgstr ""
+
+#. [unit_type]: id=EOI_elite_infantry, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/elite_infantry.cfg:19
+msgid ""
+"The Elite Infantry are stationed at critical positions, defending key points "
+"in mountainous and forested terrain. Equipped for close-range combat, they "
+"fight with precision and determination, using their knowledge of the land to "
+"their advantage. These soldiers are an essential force within the Black "
+"Army’s more agile ranks, holding ground in areas inaccessible to heavier "
+"forces."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/black_army/elite_infantry.cfg:23
+#: Era_of_Ilthan/units/black_army/two_sword_fighter.cfg:23
+msgid "two swords"
+msgstr ""
+
+#. [unit_type]: id=flying_master_ninja, race=EOI_human
+#: Era_of_Ilthan/units/black_army/flying_master_ninja.cfg:4
+msgid "Flying Master Ninja"
+msgstr ""
+
+#. [unit_type]: id=flying_master_ninja, race=EOI_human
+#: Era_of_Ilthan/units/black_army/flying_master_ninja.cfg:18
+msgid ""
+"These elite ninjas have achieved mastery over their stealth skills while "
+"wielding gliders with expert precision. Combining flight and stealth, they "
+"can infiltrate nearly any position undetected, striking fear into enemies "
+"who never see them coming. Capable of landing silently behind enemy lines or "
+"escaping unsern after an ambush, Flying Master Ninjas are the ultimate "
+"agents of chaos, embodying the Black Army's most lethal and elusive tactics."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/black_army/flying_master_ninja.cfg:25
+#: Era_of_Ilthan/units/black_army/flying_ninja.cfg:21
+#: Era_of_Ilthan/units/black_army/master_ninja.cfg:25
+#: Era_of_Ilthan/units/black_army/ninja.cfg:24
+#: Era_of_Ilthan/units/black_army/shugyousha.cfg:21
+#: Era_of_Ilthan/units/desert_undead/dune_bowman.cfg:24
+#: Era_of_Ilthan/units/desert_undead/longbow_of_the_sands.cfg:24
+#: Era_of_Ilthan/units/desert_undead/sand_archer.cfg:23
+#: Era_of_Ilthan/units/swamp_undead/assistant.cfg:30
+#: Era_of_Ilthan/units/swamp_undead/corpse_thief.cfg:36
+#: Era_of_Ilthan/units/swamp_undead/graveyard_robber.cfg:37
+#: Era_of_Ilthan/units/wood_pirates/assassin.cfg:31
+#: Era_of_Ilthan/units/wood_pirates/fisherman.cfg:39
+#: Era_of_Ilthan/units/wood_pirates/slave_trader.cfg:37
+#: Era_of_Ilthan/units/wood_pirates/spy.cfg:30
+#: Era_of_Ilthan/units/wood_pirates/thief.cfg:31
+msgid "dagger"
+msgstr ""
+
+#. [unit_type]: id=flying_ninja, race=EOI_human
+#: Era_of_Ilthan/units/black_army/flying_ninja.cfg:4
+msgid "Flying Ninja"
+msgstr ""
+
+#. [unit_type]: id=flying_ninja, race=EOI_human
+#: Era_of_Ilthan/units/black_army/flying_ninja.cfg:17
+msgid ""
+"Skilled in both climbing and combat, some Ninjas take their abilities "
+"further, equipping themselves with gliders to soar over enemy lines. These "
+"Flying Ninjas strike from above, landing behind enemy ranks or evading "
+"pursuit with a swift leap from high vantage points. Their aerial skills make "
+"them incredibly versatile, allowing them to infiltrate positions thought "
+"unreachable by any other unit."
+msgstr ""
+
+#. [unit_type]: id=EOI_giant_dog, race=EOI_human
+#: Era_of_Ilthan/units/black_army/giant_dog.cfg:4
+msgid "Giant Dog"
+msgstr ""
+
+#. [unit_type]: id=EOI_giant_dog, race=EOI_human
+#: Era_of_Ilthan/units/black_army/giant_dog.cfg:18
+msgid ""
+"As large as small horses, the Giant Dogs are brutal combatants, attacking "
+"foes with a savage fury that embodies the Black Army’s ruthless nature. "
+"These massive beasts are sent into battle to disrupt formations, using their "
+"size and strength to instill fear and create chaos. Ferocious and "
+"unyielding, they attack with an insatiable rage, tearing through weaker "
+"units."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/black_army/giant_dog.cfg:23
+#: Era_of_Ilthan/units/black_army/terrier.cfg:22
+#: Era_of_Ilthan/units/black_army/torturing_dog.cfg:24
+#: Era_of_Ilthan/units/earthmen/giant_krutilarys.cfg:22
+#: Era_of_Ilthan/units/earthmen/grown_garavandion.cfg:22
+#: Era_of_Ilthan/units/earthmen/krutilarys.cfg:21
+#: Era_of_Ilthan/units/earthmen/krutilarys_whelp.cfg:21
+#: Era_of_Ilthan/units/earthmen/onolom.cfg:41
+#: Era_of_Ilthan/units/earthmen/onolom_hatchling.cfg:40
+#: Era_of_Ilthan/units/earthmen/young_garavandion.cfg:21
+#: Era_of_Ilthan/units/lizard_alliance/apothecary_lizard.cfg:29
+#: Era_of_Ilthan/units/lizard_alliance/black_claw_lizard.cfg:56
+#: Era_of_Ilthan/units/lizard_alliance/black_head_lizard.cfg:28
+#: Era_of_Ilthan/units/lizard_alliance/fire_dragon.cfg:24
+#: Era_of_Ilthan/units/lizard_alliance/fire_lizard.cfg:24
+#: Era_of_Ilthan/units/lizard_alliance/giant_lizard.cfg:27
+#: Era_of_Ilthan/units/lizard_alliance/healing_lizard.cfg:27
+#: Era_of_Ilthan/units/lizard_alliance/keeper_of_lightning.cfg:23
+#: Era_of_Ilthan/units/lizard_alliance/light_dragon.cfg:30
+#: Era_of_Ilthan/units/lizard_alliance/lizard.cfg:23
+#: Era_of_Ilthan/units/lizard_alliance/mage_lizard.cfg:26
+#: Era_of_Ilthan/units/lizard_alliance/night_dragon.cfg:34
+#: Era_of_Ilthan/units/lizard_alliance/pale_dragon.cfg:28
+#: Era_of_Ilthan/units/lizard_alliance/river_dragon.cfg:35
+#: Era_of_Ilthan/units/lizard_alliance/royal_lizard.cfg:28
+#: Era_of_Ilthan/units/lizard_alliance/sea_dragon.cfg:37
+#: Era_of_Ilthan/units/lizard_alliance/silver_dragon.cfg:31
+#: Era_of_Ilthan/units/lizard_alliance/vulcano_dragon.cfg:30
+#: Era_of_Ilthan/units/lizard_alliance/vulcano_lizard.cfg:25
+#: Era_of_Ilthan/units/lizard_alliance/wizard_lizard.cfg:27
+#: Era_of_Ilthan/units/lizard_alliance/yellow_dragon.cfg:29
+#: Era_of_Ilthan/units/lizard_alliance/young_dragon.cfg:24
+msgid "bite"
+msgstr ""
+
+#. [unit_type]: id=EOI_heavy_crossbowman, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/heavy_crossbowman.cfg:4
+msgid "Heavy Crossbowman"
+msgstr ""
+
+#. [unit_type]: id=EOI_heavy_crossbowman, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/heavy_crossbowman.cfg:20
+msgid ""
+"Wielding massive crossbows and clad in heavy armor, the Heavy Crossbowmen "
+"are built for close-range, high-impact assaults. Though they must get near "
+"the enemy to be effective, their armor protects them from incoming attacks, "
+"making them one of the best-armored ranged units on the island of Ilthan. "
+"Their powerful shots and resilience make them a formidable part of the Black "
+"Army’s siege tactics."
+msgstr ""
+
+#. [unit_type]: id=EOI_heavy_infantry, race=EOI_human
+#: Era_of_Ilthan/units/black_army/heavy_infantry.cfg:4
+msgid "Heavy Infantry"
+msgstr ""
+
+#. [unit_type]: id=EOI_heavy_infantry, race=EOI_human
+#: Era_of_Ilthan/units/black_army/heavy_infantry.cfg:17
+msgid ""
+"The backbone of the Black Army, the Heavy Infantry are clad in dense, "
+"blackened armor that renders them nearly invulnerable to regular attacks. As "
+"they march, the ground trembles with the weight of their iron-bound "
+"footsteps. Though slow, they are relentless, moving forward like an "
+"unstoppable wall of metal and muscle, ready to overrun anything that stands "
+"in their path."
+msgstr ""
+
+#. [unit_type]: id=EOI_incendiarist, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/incendiarist.cfg:4
+msgid "Incendiarist"
+msgstr ""
+
+#. [unit_type]: id=EOI_incendiarist, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/incendiarist.cfg:18
+msgid ""
+"The Incendiaries are the Black Army’s torchbearers of destruction, sent to "
+"burn and raze after a city has fallen. Occasionally arriving early to join "
+"the fight, they wield fire with ruthless intent, setting structures and "
+"equipment ablaze. In battle, they spread chaos and fear, reminding enemies "
+"of the devastation that awaits if the Black Army prevails."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Ilthan/units/black_army/incendiarist.cfg:49
+#: Era_of_Ilthan/units/black_army/pillager.cfg:49
+#: Era_of_Ilthan/units/wood_pirates/captain.cfg:61
+#: Era_of_Ilthan/units/wood_pirates/corsair.cfg:59
+#: Era_of_Ilthan/units/wood_pirates/pirate.cfg:41
+msgid "torch"
+msgstr ""
+
+#. [unit_type]: id=EOI_light_cavalry, race=EOI_human
+#: Era_of_Ilthan/units/black_army/light_cavalry.cfg:4
+msgid "Light Cavalry"
+msgstr ""
+
+#. [unit_type]: id=EOI_light_cavalry, race=EOI_human
+#: Era_of_Ilthan/units/black_army/light_cavalry.cfg:17
+msgid ""
+"The black army is not a people wich attacks as much as it can without "
+"thinking, like the wood pirates, but they plan their attacks carefully. To "
+"achieve this, they need informations and to get those informations, they "
+"send light cavalry."
+msgstr ""
+
+#. [unit_type]: id=EOI_light_infantry, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/light_infantry.cfg:4
+msgid "Light Infantry"
+msgstr ""
+
+#. [unit_type]: id=EOI_light_infantry, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/light_infantry.cfg:18
+msgid ""
+"Though the Black Army is known for its heavy infantry, the Light Infantry "
+"plays a key role in occupying difficult terrain. Agile and efficient, they "
+"are deployed to secure positions in mountains and forests, where heavier "
+"units would struggle. These soldiers may lack the brute strength of their "
+"heavier counterparts, but they move swiftly and strike decisively in "
+"challenging landscapes."
+msgstr ""
+
+#. [unit_type]: id=EOI_master_ninja, race=EOI_human
+#: Era_of_Ilthan/units/black_army/master_ninja.cfg:4
+msgid "Master Ninja"
+msgstr ""
+
+#. [unit_type]: id=EOI_master_ninja, race=EOI_human
+#: Era_of_Ilthan/units/black_army/master_ninja.cfg:17
+msgid ""
+"These elite assassins have refined their craft to near perfection, moving "
+"with such stealth that they seem almost invisible at night. Master Ninjas "
+"use their skills to slip into enemy strongholds, eliminate key targets, and "
+"vanish without a trace. Their expertise in stealth and ambush make them one "
+"of the Black Army’s most feared units, as they can dismantle an enemy’s "
+"defenses from within."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/black_army/master_ninja.cfg:55
+#: Era_of_Ilthan/units/black_army/ninja.cfg:54
+#: Era_of_Ilthan/units/black_army/shugyousha.cfg:51
+msgid "throwing knives"
+msgstr ""
+
+#. [unit_type]: id=EOI_ninja, race=EOI_human
+#: Era_of_Ilthan/units/black_army/ninja.cfg:4
+msgid "Ninja"
+msgstr ""
+
+#. [unit_type]: id=EOI_ninja, race=EOI_human
+#: Era_of_Ilthan/units/black_army/ninja.cfg:17
+msgid ""
+"The Ninjas of the Black Army are masters of stealth, deceit, and deadly "
+"efficiency. With little regard for honor, they employ any tactic necessary "
+"to weaken their foes, from poisoning the wounded to striking from the "
+"shadows. Their agility allows them to maneuver around enemy defenses with "
+"ease, leaving a trail of destruction in their wake. Feared for their "
+"ruthlessness, they embody the Black Army’s determination to win at any cost."
+msgstr ""
+
+#. [unit_type]: id=EOI_pillager, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/pillager.cfg:4
+msgid "Pillager"
+msgstr ""
+
+#. [unit_type]: id=EOI_pillager, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/pillager.cfg:19
+msgid ""
+"When the Black Army seeks to cripple a city beyond conquest, they unleash "
+"the Pillagers. Skilled in both combat and destruction, they move through "
+"enemy defenses, torching buildings and plundering supplies with a practiced "
+"efficiency. Pillagers are trained to destroy rather than capture, leaving "
+"ruins in their wake as a stark warning to any who would oppose the Black "
+"Army."
+msgstr ""
+
+#. [unit_type]: id=EOI_scout, race=EOI_human
+#: Era_of_Ilthan/units/black_army/scout.cfg:4
+msgid "Scout"
+msgstr ""
+
+#. [unit_type]: id=EOI_scout, race=EOI_human
+#: Era_of_Ilthan/units/black_army/scout.cfg:18
+msgid ""
+"If the black army needs a fast attacker to destroy other scouts, they send "
+"their scouts."
+msgstr ""
+
+#. [unit_type]: id=EOI_shugyousha, race=EOI_human
+#: Era_of_Ilthan/units/black_army/shugyousha.cfg:4
+msgid "Shugyousha"
+msgstr ""
+
+#. [unit_type]: id=EOI_terrier, race=EOI_human
+#: Era_of_Ilthan/units/black_army/terrier.cfg:4
+msgid "Terrier"
+msgstr ""
+
+#. [unit_type]: id=EOI_terrier, race=EOI_human
+#: Era_of_Ilthan/units/black_army/terrier.cfg:17
+msgid ""
+"It may seem strange for such a powerful army to field terriers, yet these "
+"small, aggressive scouts serve as an early warning system for the Black "
+"Army. Although they are not dangerous in combat, they are notoriously hard "
+"to catch and harass the enemy with relentless barks, keeping foes on edge "
+"and alerting the army to enemy movements."
+msgstr ""
+
+#. [unit_type]: id=EOI_torturing_dog, race=EOI_human
+#: Era_of_Ilthan/units/black_army/torturing_dog.cfg:4
+msgid "Torturing Dog"
+msgstr ""
+
+#. [unit_type]: id=EOI_torturing_dog, race=EOI_human
+#: Era_of_Ilthan/units/black_army/torturing_dog.cfg:18
+msgid ""
+"These fearsome dogs serve a dark purpose within the Black Army, often "
+"unleashed on prisoners to instill terror. In combat, they are used to harass "
+"enemy ranks, with powerful jaws and an aggressive nature that makes them "
+"intimidating. Though not exceptionally strong, their presence unnerves "
+"enemies, causing disarray in tightly packed formations."
+msgstr ""
+
+#. [unit_type]: id=EOI_two_sword_fighter, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/two_sword_fighter.cfg:4
+msgid "Two Sword Fighter"
+msgstr ""
+
+#. [unit_type]: id=EOI_two_sword_fighter, race=EOI_human, gender=male
+#: Era_of_Ilthan/units/black_army/two_sword_fighter.cfg:18
+msgid ""
+"The most skilled of the Light Infantry are armed with dual swords, allowing "
+"them to deliver a swift and deadly flurry of attacks. Deployed to high-value "
+"locations, they specialize in rapid assaults that overwhelm opponents, "
+"doubling the threat they pose to anyone who dares challenge them."
+msgstr ""
+
+#. [unit_type]: id=EOI_uralian_of_death, race=EOI_uralian
+#: Era_of_Ilthan/units/black_army/uralian_of_death.cfg:4
+msgid "Uralian of Death"
+msgstr ""
+
+#. [unit_type]: id=EOI_uralian_of_death, race=EOI_uralian
+#: Era_of_Ilthan/units/black_army/uralian_of_death.cfg:18
+msgid ""
+"Reaching the height of their dark transformation, the Uralian of Death "
+"embodies the strength of an elite warrior with a grim purpose. Clad in "
+"foreboding black armor and wielding fearsome weapons, they strike with a "
+"lethal ferocity, leaving a path of destruction wherever they go. This "
+"betrayal of their original ideals renders them feared and loathed by former "
+"allies, who regard them as an unstoppable force of dread."
+msgstr ""
+
+#. [unit_type]: id=EOI_ancient_mummy, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/ancient_mummy.cfg:4
+msgid "Ancient Mummy"
+msgstr ""
+
+#. [unit_type]: id=EOI_ancient_mummy, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/ancient_mummy.cfg:17
+msgid ""
+"Rising above ordinary mummies, the Ancient Mummy was once a high-ranking "
+"noble, trained in both close combat and mystic arts. Even in undeath, it "
+"wields weapons and magic with lethal expertise, adapting to threats with an "
+"eerie precision. Its bandages, now frayed and weathered, shimmer faintly "
+"with the remnants of protective enchantments, marking it as a guardian of "
+"ancient power."
+msgstr ""
+
+#. [attack]: type=arcane
+#. [attack]: type=fire
+#: Era_of_Ilthan/units/desert_undead/ancient_mummy.cfg:23
+#: Era_of_Ilthan/units/desert_undead/mummy.cfg:23
+#: Era_of_Ilthan/units/desert_undead/pharao.cfg:24
+#: Era_of_Ilthan/units/desert_undead/prince.cfg:23
+#: Era_of_Ilthan/units/mountain_mages/fire_spark.cfg:47
+#: Era_of_Ilthan/units/mountain_mages/fire_storm.cfg:48
+#: Era_of_Ilthan/units/swamp_undead/ghost.cfg:34
+#: Era_of_Ilthan/units/swamp_undead/nightmare.cfg:35
+#: Era_of_Ilthan/units/swamp_undead/specter.cfg:33
+msgid "touch"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Ilthan/units/desert_undead/ancient_mummy.cfg:32
+#: Era_of_Ilthan/units/desert_undead/high_priest.cfg:50
+#: Era_of_Ilthan/units/desert_undead/mummy.cfg:33
+#: Era_of_Ilthan/units/desert_undead/pharao.cfg:44
+#: Era_of_Ilthan/units/desert_undead/priest.cfg:46
+#: Era_of_Ilthan/units/desert_undead/prince.cfg:43
+msgid "curse"
+msgstr ""
+
+#. [unit_type]: id=EOI_bonewing, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/bonewing.cfg:4
+msgid "Bonewing"
+msgstr ""
+
+#. [unit_type]: id=EOI_bonewing, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/bonewing.cfg:18
+msgid ""
+"With age, the Desert Bird transforms into the formidable Skeleton Bird, a "
+"true terror in the sky. Its brittle bones grow more resilient, and its "
+"attacks become as ruthless as any skilled warrior’s. Stripped down to an "
+"animated skeleton, the Skeleton Bird’s speed and agility remain "
+"undiminished, making it one of the most dangerous scouts in the undead army. "
+"Its piercing shrieks are said to be the echo of ancient battle cries, a "
+"haunting reminder of the desert’s relentless spirit."
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/desert_undead/bonewing.cfg:37
+#: Era_of_Ilthan/units/desert_undead/sandwing.cfg:36
+#: Era_of_Ilthan/units/lizard_alliance/black_claw_lizard.cfg:29
+#: Era_of_Ilthan/units/lizard_alliance/black_head_lizard.cfg:55
+#: Era_of_Ilthan/units/swamp_undead/ghoul.cfg:45
+#: Era_of_Ilthan/units/swamp_undead/necrophage.cfg:43
+msgid "claws"
+msgstr ""
+
+#. [unit_type]: id=EOI_chariot_of_the_damned, race=mechanical
+#: Era_of_Ilthan/units/desert_undead/chariot_of_the_damned.cfg:4
+msgid "Elite Chariot"
+msgstr ""
+
+#. [unit_type]: id=EOI_chariot_of_the_damned, race=mechanical
+#: Era_of_Ilthan/units/desert_undead/chariot_of_the_damned.cfg:18
+msgid ""
+"The Chariot of the Damned is the final evolution of chariot warfare, crafted "
+"for the desert’s most fearsome warriors and driven by the darkest magic. "
+"These chariots, now reinforced with bone and iron, tear across the "
+"battlefield with terrifying speed, leaving only destruction in their wake. "
+"Its spiked wheels and cursed frame are designed to crush even the sturdiest "
+"defenses, while its rider strikes with relentless fury. Propelled by the "
+"wrath of ancient kings, the Chariot of the Damned is an unstoppable force, "
+"feared by all who see its shadow upon the sand."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/desert_undead/chariot_of_the_damned.cfg:20
+#: Era_of_Ilthan/units/desert_undead/dread_chariot.cfg:20
+#: Era_of_Ilthan/units/lizard_alliance/fire_dragon.cfg:52
+#: Era_of_Ilthan/units/lizard_alliance/night_dragon.cfg:61
+#: Era_of_Ilthan/units/lizard_alliance/sea_dragon.cfg:65
+#: Era_of_Ilthan/units/lizard_alliance/vulcano_dragon.cfg:58
+#: Era_of_Ilthan/units/lizard_alliance/yellow_dragon.cfg:56
+#: Era_of_Ilthan/units/wood_pirates/pirate_ship.cfg:22
+#: Era_of_Ilthan/units/wood_pirates/warship.cfg:23
+msgid "charge"
+msgstr ""
+
+#. [unit_type]: id=EOI_desert_rider, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/desert_rider.cfg:4
+msgid "Desert Rider"
+msgstr ""
+
+#. [unit_type]: id=EOI_desert_rider, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/desert_rider.cfg:17
+msgid ""
+"These skeletal riders are among the few who once braved the harsh desert on "
+"horseback, though their skills in riding are crude. Now, cursed to serve "
+"eternally, their movements are jerky yet relentless, charging toward their "
+"foes with an unwavering determination. Though their mounts are just as "
+"skeletal as they are, the riders’ grim resolve makes them capable scouts and "
+"harassers in open terrain."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/desert_undead/desert_rider.cfg:23
+#: Era_of_Ilthan/units/wood_pirates/axe_thrower.cfg:34
+#: Era_of_Ilthan/units/wood_pirates/axeman.cfg:34
+#: Era_of_Ilthan/units/wood_pirates/wood_bowman.cfg:34
+#: Era_of_Ilthan/units/wood_pirates/wood_longbowman.cfg:35
+msgid "axe"
+msgstr ""
+
+#. [unit_type]: id=EOI_dread_chariot, race=mechanical
+#. [damage]: id=chariot
+#: Era_of_Ilthan/units/desert_undead/dread_chariot.cfg:4
+#: Era_of_Ilthan/utils/weapon_specials.cfg:5
+msgid "Chariot"
+msgstr ""
+
+#. [unit_type]: id=EOI_dread_chariot, race=mechanical
+#: Era_of_Ilthan/units/desert_undead/dread_chariot.cfg:17
+msgid ""
+"Unable to master horseback combat fully, the ancient desert people instead "
+"perfected the use of chariots in battle. These skeletal charioteers retain "
+"memories of their past tactics, using their chariots to strike with "
+"surprising speed across the sands. Though slower than mounted cavalry, they "
+"bring a formidable force to flat terrains, where they can barrel into enemy "
+"lines and scatter them. In death, the chariot’s wheels grind through sand "
+"and bone alike, leaving a path of destruction behind."
+msgstr ""
+
+#. [unit_type]: id=EOI_dread_slayer, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/dread_slayer.cfg:4
+msgid "Desert Slayer"
+msgstr ""
+
+#. [unit_type]: id=EOI_dread_slayer, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/dread_slayer.cfg:18
+msgid ""
+"In life, the Dread Slayers were legendary figures, achieving the highest "
+"rank available to those without noble blood. Skilled in the brutal arts of "
+"combat, they were sent on impossible missions, wielding their deadly "
+"halberds to hunt down the vulnerable among the enemy. In undeath, their "
+"strikes are ruthlessly efficient, often delivering final blows with lethal "
+"accuracy. Feared as specters of inevitable death, Dread Slayers roam the "
+"battlefield as relentless hunters, embodying the ruthless skill and "
+"dedication they possessed in life."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/desert_undead/dread_slayer.cfg:22
+#: Era_of_Ilthan/units/desert_undead/dune_halberdier.cfg:22
+msgid "halberd"
+msgstr ""
+
+#. [unit_type]: id=EOI_dune_bowman, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/dune_bowman.cfg:4
+msgid "Dune Bowman"
+msgstr ""
+
+#. [unit_type]: id=EOI_dune_bowman, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/dune_bowman.cfg:18
+msgid ""
+"Elevated to a stronger role through countless battles, the Dune Bowmen were "
+"once highly trained marksmen within the desert kingdom’s elite forces. Now, "
+"animated by ancient magic, they unleash a deadly hail of arrows with grim "
+"precision, their tattered robes billowing in the dry desert air. These "
+"undead retain enough skill to adjust their shots to even the most "
+"challenging terrain, haunting their enemies with relentless volleys."
+msgstr ""
+
+#. [unit_type]: id=EOI_dune_guard, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/dune_guard.cfg:4
+msgid "Desert Guard"
+msgstr ""
+
+#. [unit_type]: id=EOI_dune_guard, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/dune_guard.cfg:17
+msgid ""
+"Once the vigilant protectors of the desert’s rulers, the Dune Guards were "
+"elite warriors tasked with safeguarding nobles and kings. Bound by a curse "
+"to defend the kingdom even in death, they fight with an enduring resilience "
+"that feels almost unbreakable. Their sturdy armor and unyielding stance make "
+"them formidable in defensive positions, embodying the protective spirit that "
+"once set them apart in life."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/desert_undead/dune_guard.cfg:26
+#: Era_of_Ilthan/units/desert_undead/grave_guard.cfg:24
+#: Era_of_Ilthan/units/desert_undead/sandwalker.cfg:23
+msgid "Khopesh"
+msgstr ""
+
+#. [unit_type]: id=EOI_dune_halberdier, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/dune_halberdier.cfg:4
+msgid "Desert Halberdier"
+msgstr ""
+
+#. [unit_type]: id=EOI_dune_halberdier, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/dune_halberdier.cfg:17
+msgid ""
+"These skeletal halberdiers once served as shock troops within the ancient "
+"army, equipped to sweep through enemies with lethal efficiency. Though their "
+"aim is weakened in death, their strikes are no less deadly, as they "
+"instinctively target the weakest points in their foes. Their relentless "
+"pursuit of the wounded instills fear across the battlefield, and they move "
+"with an uncanny precision that hints at their former elite status."
+msgstr ""
+
+#. [unit_type]: id=EOI_emperor_scorpion, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/emperor_scorpion.cfg:4
+msgid "Emperor Skorpion"
+msgstr ""
+
+#. [unit_type]: id=EOI_emperor_scorpion, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/emperor_scorpion.cfg:18
+msgid ""
+"Larger and deadlier than its lesser kin, the Emperor Scorpion is a master of "
+"poison, its sting laden with a venom so potent it could halt a heartbeat in "
+"moments. With sharpened pincers and a massive, stinging tail, it strikes "
+"with ruthless precision, using its ancient memories of desert hunting to "
+"target foes. This towering scorpion prowls the battlefield with sinister "
+"purpose, its resilient carapace absorbing blows as it delivers fatal poison "
+"to all who dare approach."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/desert_undead/emperor_scorpion.cfg:23
+#: Era_of_Ilthan/units/desert_undead/scorpion.cfg:22
+msgid "pincers"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/desert_undead/emperor_scorpion.cfg:31
+#: Era_of_Ilthan/units/desert_undead/scorpion.cfg:30
+msgid "sting"
+msgstr ""
+
+#. [unit_type]: id=EOI_grave_guard, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/grave_guard.cfg:4
+msgid "Grave Guard"
+msgstr ""
+
+#. [unit_type]: id=EOI_grave_guard, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/grave_guard.cfg:18
+msgid ""
+"In the ancient culture wich lived in the deserts, the dead where more "
+"important than the living, wich meant that the grave guards where even "
+"better fighters than the guards of the living kings."
+msgstr ""
+
+#. [unit_type]: id=EOI_high_priest, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/high_priest.cfg:4
+msgid "High Priest"
+msgstr ""
+
+#. [unit_type]: id=EOI_high_priest, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/high_priest.cfg:18
+msgid ""
+"Second only to the Pharaoh, the High Priest wielded tremendous power in the "
+"ancient civilization, channeling mystical forces to protect and control the "
+"kingdom. Now, as an undead sorcerer, he commands magic strong enough to "
+"summon the sun’s wrath upon his enemies. His hollow eyes gleam with a "
+"malevolent knowledge, and his incantations echo with authority, each word a "
+"curse upon any who defy the ancient desert."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/desert_undead/high_priest.cfg:24
+#: Era_of_Ilthan/units/desert_undead/priest.cfg:23
+#: Era_of_Ilthan/units/mountain_mages/mage.cfg:24
+#: Era_of_Ilthan/units/mountain_mages/mage_of_the_high_council.cfg:28
+#: Era_of_Ilthan/units/mountain_mages/red_mage.cfg:27
+#: Era_of_Ilthan/units/mountain_mages/yellow_mage.cfg:27
+#: Era_of_Ilthan/units/swamp_undead/dark_sorcerer.cfg:41
+#: Era_of_Ilthan/units/swamp_undead/warlock.cfg:42
+#: Era_of_Ilthan/units/swamp_undead/witch_apprentice.cfg:38
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/desert_undead/high_priest.cfg:37
+#: Era_of_Ilthan/units/desert_undead/priest.cfg:33
+msgid "snake bite"
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Ilthan/units/desert_undead/high_priest.cfg:63
+#: Era_of_Ilthan/units/desert_undead/priest.cfg:59
+msgid "burning sun"
+msgstr ""
+
+#. [unit_type]: id=EOI_longbow_of_the_sands, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/longbow_of_the_sands.cfg:4
+msgid "Longbow of the Sands"
+msgstr ""
+
+#. [unit_type]: id=EOI_longbow_of_the_sands, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/longbow_of_the_sands.cfg:18
+msgid ""
+"The strongest of the desert archers, the Longbows of the Sands were "
+"legendary in life for their accuracy and strength. Now, as undead warriors, "
+"their arrows strike with supernatural force, bypassing most armor with a "
+"piercing resilience. Animated by the darkest remnants of their past, they "
+"serve as silent sentinels, taking down foes from the shadows of the dunes as "
+"their skeletal eyes watch over the ancient battlefield."
+msgstr ""
+
+#. [unit_type]: id=EOI_mummy, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/mummy.cfg:4
+msgid "Mummy"
+msgstr ""
+
+#. [unit_type]: id=EOI_mummy, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/mummy.cfg:17
+msgid ""
+"These mummies were once the noble class of an ancient desert people, "
+"preserved in elaborate rituals and bound in fine linen to ensure their "
+"spirits would endure. Now cursed to roam once more, they retain faint "
+"memories of their past strength, wielding both melee weapons and dark magic "
+"in combat. Though their movements are slow, they channel their magic with "
+"chilling focus, serving as fierce defenders of the desert sands."
+msgstr ""
+
+#. [unit_type]: id=EOI_pharao, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/pharao.cfg:4
+msgid "Pharao"
+msgstr ""
+
+#. [unit_type]: id=EOI_pharao, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/pharao.cfg:18
+msgid ""
+"Once the legendary ruler of the desert, the Pharaoh’s strength was known "
+"throughout the ancient world, and even in death, he remains an unstoppable "
+"force. Adorned in decayed but regal armor, he is a master of magic and "
+"combat, commanding the undead with his mere presence. The Pharaoh’s curse "
+"binds him to protect his kingdom eternally, and with every swing of his "
+"blade or spell, he reminds his enemies why he was never defeated in life."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/desert_undead/pharao.cfg:34
+#: Era_of_Ilthan/units/desert_undead/prince.cfg:33
+msgid "glaive"
+msgstr ""
+
+#. [unit_type]: id=EOI_priest, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/priest.cfg:4
+msgid "Priest"
+msgstr ""
+
+#. [unit_type]: id=EOI_priest, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/priest.cfg:17
+msgid ""
+"These undead priests were once respected leaders, entrusted with maintaining "
+"the will of the Pharaoh across the land. Although their healing powers have "
+"faded, their mystical knowledge remains potent, allowing them to wield magic "
+"from afar while retaining enough skill for close combat if necessary. The "
+"priests command a presence that sends chills through their enemies, their "
+"voices echoing with authority from a long-lost age."
+msgstr ""
+
+#. [unit_type]: id=EOI_prince, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/prince.cfg:4
+msgid "Prince"
+msgstr ""
+
+#. [unit_type]: id=EOI_prince, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/prince.cfg:17
+msgid ""
+"In life, the Prince was a figure of unmatched prowess, skilled in both "
+"martial arts and arcane power. In death, he is no less formidable, "
+"commanding dark magic and striking with unparalleled force. His ancient "
+"bandages and regal adornments mark him as a royal of the cursed kingdom, and "
+"his aura speaks of a destiny that was interrupted but not forgotten. His "
+"enemies know him as the wrath of the ancient desert, a memory of a power "
+"once feared across the world."
+msgstr ""
+
+#. [unit_type]: id=EOI_sand_archer, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/sand_archer.cfg:4
+msgid "Sand archer"
+msgstr ""
+
+#. [unit_type]: id=EOI_sand_archer, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/sand_archer.cfg:17
+msgid ""
+"These skeletal archers once formed the backbone of an ancient desert army, "
+"their skills preserved in death by the curse that binds them. Though their "
+"aim may be less precise than in life, they remain adept at launching arrows "
+"across the shifting sands. Cloaked in the dust of their homeland, the Sand "
+"Archers provide ranged support with eerie silence, their bows releasing a "
+"whisper with every shot as if echoing long-forgotten war cries."
+msgstr ""
+
+#. [unit_type]: id=EOI_sandwalker, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/sandwalker.cfg:4
+msgid "Desert skeleton"
+msgstr ""
+
+#. [unit_type]: id=EOI_sandwalker, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/sandwalker.cfg:17
+msgid ""
+"These skeletal soldiers were once foot soldiers in a powerful desert "
+"kingdom, cursed to return from the sands they fell upon. Though not "
+"particularly skilled, they march forward with grim determination, wielding "
+"ancient weapons. In death, they retain a shadow of the resilience they had "
+"in life, ready to serve as the frontline in their cursed army, undaunted by "
+"fear or fatigue."
+msgstr ""
+
+#. [unit_type]: id=EOI_sandwing, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/sandwing.cfg:4
+msgid "Sandwing"
+msgstr ""
+
+#. [unit_type]: id=EOI_sandwing, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/sandwing.cfg:17
+msgid ""
+"Once a creature of the living desert, the Sandwing now soars as a cursed "
+"specter, its skeletal form woven with dark magic. Swift and relentless, it "
+"serves as a scout for the undead army, its hollow bones granting it "
+"unnatural agility. Even in undeath, it retains the sharp instincts of a "
+"predator, circling high above before diving down upon enemies, piercing "
+"through with its fearsome talons. The mere sight of its shadow in the sand "
+"instills fear, as it signals that death is near."
+msgstr ""
+
+#. [unit_type]: id=EOI_scorpion, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/scorpion.cfg:4
+msgid "Skorpion"
+msgstr ""
+
+#. [unit_type]: id=EOI_scorpion, race=EOI_desert_undead
+#: Era_of_Ilthan/units/desert_undead/scorpion.cfg:17
+msgid ""
+"Crawling from the sands with undead vigor, the Scorpion is a deadly "
+"adversary, wielding a venomous sting that once haunted the deserts in life. "
+"Though fragile in form, its poison remains lethal, paralyzing those unlucky "
+"enough to cross its path. The undead curse grants it heightened endurance, "
+"making it a resilient and vengeful force on the battlefield. Earth warriors "
+"and monsters alike steer clear of this relentless crawler, for its touch "
+"means almost certain death."
+msgstr ""
+
+#. [unit_type]: id=EOI_cord_weaver, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/cord_weaver.cfg:4
+msgid "Cord Weaver"
+msgstr ""
+
+#. [unit_type]: id=EOI_cord_weaver, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/cord_weaver.cfg:17
+msgid ""
+"Earthmen rely heavily on cords in their daily lives, using them for "
+"construction, binding tools, and even as simple adornments. Although their "
+"purposes are sometimes unclear, cords play a fundamental role in earthmen "
+"society. Cord Binders are skilled at handling these materials, and while "
+"they are not warriors, they can use their cords to hinder an enemy’s "
+"movement, setting the stage for others to strike."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/earthmen/cord_weaver.cfg:31
+msgid "cord"
+msgstr ""
+
+#. [unit_type]: id=EOI_giant_krutilarys, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/giant_krutilarys.cfg:4
+msgid "Giant Krutilarys"
+msgstr ""
+
+#. [unit_type]: id=EOI_giant_krutilarys, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/giant_krutilarys.cfg:18
+msgid ""
+"Towering above other creatures, the Giant Krutilarys is revered as a "
+"powerful defender, its immense size and strength legendary among the "
+"earthmen. Residing in the most secluded caves, this beast is elusive and "
+"dangerous, a target only for seasoned hunters. With its aid, the earthmen "
+"bolster their defenses, harnessing the creature’s force to guard against any "
+"invaders."
+msgstr ""
+
+#. [unit_type]: id=EOI_grown_garavandion, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/grown_garavandion.cfg:4
+msgid "Grown Garavandion"
+msgstr ""
+
+#. [unit_type]: id=EOI_grown_garavandion, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/grown_garavandion.cfg:18
+msgid ""
+"Fully matured, the Grown Garavandion is a relentless force in combat, "
+"charging into enemies with terrifying intensity. Unlike its younger "
+"counterpart, this creature’s strength and size make capturing it an extreme "
+"challenge. Only the most experienced earthmen attempt this, relying on "
+"carefully planned traps and teamwork to harness its raw aggression for "
+"defense."
+msgstr ""
+
+#. [unit_type]: id=EOI_king, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/king.cfg:4
+msgid "King"
+msgstr ""
+
+#. [unit_type]: id=EOI_king, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/king.cfg:19
+msgid ""
+"Among the otherwise unassuming earthmen, a singular figure stands out—the "
+"King. The King is the leader and, unlike his kin, exhibits a surprising "
+"degree of intelligence and martial prowess, nearly on par with human "
+"warriors. Respected by all earthmen, the King possesses both the strength "
+"and wisdom to protect his people, coordinating defenses with surprising "
+"insight. Though he rarely speaks, his actions command respect, and his "
+"presence is enough to rally the earthmen for any battle they may face."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/earthmen/king.cfg:26
+#: Era_of_Ilthan/units/earthmen/overman.cfg:22
+#: Era_of_Ilthan/units/earthmen/warrior.cfg:22
+#: Era_of_Ilthan/units/swamp_undead/klabautermann.cfg:77
+msgid "hammer"
+msgstr ""
+
+#. [unit_type]: id=EOI_krutilarys, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/krutilarys.cfg:4
+msgid "Krutilarys"
+msgstr ""
+
+#. [unit_type]: id=EOI_krutilarys, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/krutilarys.cfg:17
+msgid ""
+"Now in its prime, the Krutilarys balances strength with calculated "
+"aggression, making it a reliable combatant for the earthmen. Often "
+"inhabiting stable upper caves, these creatures are symbols of power among "
+"the earthmen. Capturing a mature Krutilarys requires a rite of passage, as "
+"its sharp instincts challenge even the most adept hunters."
+msgstr ""
+
+#. [unit_type]: id=EOI_krutilarys_whelp, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/krutilarys_whelp.cfg:4
+msgid "Krutilarys Whelp"
+msgstr ""
+
+#. [unit_type]: id=EOI_krutilarys_whelp, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/krutilarys_whelp.cfg:17
+msgid ""
+"This young Krutilarys scurries through the caves in small packs, relying on "
+"instinctual strength rather than refined skill. Drawn to the luminescent "
+"stones earthmen scatter to bait them, Krutilarys whelps are relatively easy "
+"to lure into traps. Once captured, these creatures serve as steady, if "
+"somewhat clumsy, allies in combat."
+msgstr ""
+
+#. [unit_type]: id=EOI_master_builder, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/master_builder.cfg:4
+msgid "Master Builder"
+msgstr ""
+
+#. [unit_type]: id=EOI_master_builder, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/master_builder.cfg:19
+msgid ""
+"The Master Builder holds a unique role among the earthmen, not only for "
+"their skill in ranged combat but also for their expertise in constructing "
+"complex defenses. When planning intricate traps or structures, the Master "
+"Builder is essential, directing the efforts of other earthmen to ensure each "
+"creation is both functional and durable. In combat, Master Builders employ "
+"precision in their ranged attacks, combining their strategic mindset with a "
+"keen aim to defend their caves effectively."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/earthmen/master_builder.cfg:32
+#: Era_of_Ilthan/units/earthmen/slinger.cfg:32
+#: Era_of_Ilthan/units/swamp_undead/soulless_slinger.cfg:44
+#: Era_of_Ilthan/units/swamp_undead/walking_corpse_slinger.cfg:87
+msgid "sling"
+msgstr ""
+
+#. [unit_type]: id=EOI_monster_hunter, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/monster_hunter.cfg:4
+msgid "Monster Hunter"
+msgstr ""
+
+#. [unit_type]: id=EOI_monster_hunter, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/monster_hunter.cfg:19
+msgid ""
+"The earthmen’s reliance on cave monsters for labor and warfare has given "
+"rise to a dedicated group of Monster Hunters. These individuals venture into "
+"the depths to track and capture creatures, sharpening their skills with nets "
+"through constant practice. Over time, Monster Hunters have become adept at "
+"using their nets against any enemy, expertly trapping foes to give their "
+"allies the upper hand. Their deep knowledge of the caves and understanding "
+"of monster behavior make them indispensable to the earthmen’s defenses."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/earthmen/monster_hunter.cfg:23
+msgid "chain"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/earthmen/monster_hunter.cfg:33
+#: Era_of_Ilthan/units/earthmen/net_thrower.cfg:32
+#: Era_of_Ilthan/units/wood_pirates/fisherman.cfg:66
+#: Era_of_Ilthan/units/wood_pirates/men_hunter.cfg:63
+#: Era_of_Ilthan/units/wood_pirates/slave_trader.cfg:64
+msgid "net"
+msgstr ""
+
+#. [unit_type]: id=EOI_net_thrower, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/net_thrower.cfg:4
+msgid "Net Thrower"
+msgstr ""
+
+#. [unit_type]: id=EOI_net_thrower, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/net_thrower.cfg:18
+msgid ""
+"Lacking the strength to carry heavy loads alone, earthmen often rely on "
+"monsters to haul their supplies. These creatures, however, don’t assist "
+"willingly, so the earthmen use nets to capture and control them. Net "
+"Throwers have honed this technique to perfection, casting nets swiftly and "
+"effectively. In battle, they apply the same skill, skillfully ensnaring "
+"opponents to slow them down and give their allies an advantage."
+msgstr ""
+
+#. [unit_type]: id=EOI_onolom, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/onolom.cfg:4
+msgid "Onolom"
+msgstr ""
+
+#. [unit_type]: id=EOI_onolom, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/onolom.cfg:18
+msgid ""
+"Agile and fast, the mature Onolom navigates the watery cave systems with "
+"ease, its swimming skills unmatched among cave creatures. These monsters are "
+"surprisingly cooperative once captured, making them ideal scouts. The "
+"earthmen rely on them for swift reconnaissance, and their uncanny sense for "
+"approaching danger has saved many earthmen from unexpected threats."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/earthmen/onolom.cfg:51
+msgid "horn"
+msgstr ""
+
+#. [unit_type]: id=EOI_onolom_hatchling, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/onolom_hatchling.cfg:4
+msgid "Onolom Hatchling"
+msgstr ""
+
+#. [unit_type]: id=EOI_onolom_hatchling, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/onolom_hatchling.cfg:17
+msgid ""
+"Born with a talent for swimming, the Onolom hatchling is adapted to the "
+"flood-prone caves where it resides, its many legs making it both quick and "
+"evasive. Earthmen prize these young creatures for their agility, capturing "
+"them with simple nets and training them to scout. Though timid, a trained "
+"hatchling becomes a reliable messenger within the caves."
+msgstr ""
+
+#. [unit_type]: id=EOI_overman, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/overman.cfg:4
+msgid "Overman"
+msgstr ""
+
+#. [unit_type]: id=EOI_overman, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/overman.cfg:18
+msgid ""
+"Though the purpose behind much of the earthmen’s labor may appear unclear, "
+"occasionally their efforts result in remarkable structures or traps. The "
+"Overman, a step above the common worker, is responsible for organizing these "
+"rare successes. With a keen eye for strategy, Overmen coordinate their "
+"fellow workers, transforming their aimless energy into directed action. "
+"Though still modest in combat, they hold authority among the earthmen and "
+"can rally a small group for defense."
+msgstr ""
+
+#. [unit_type]: id=EOI_slinger, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/slinger.cfg:4
+msgid "Slinger"
+msgstr ""
+
+#. [unit_type]: id=EOI_slinger, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/slinger.cfg:18
+msgid ""
+"Some earthmen have learned to wield slings, allowing them to hurl their "
+"stones with greater force and accuracy over longer distances. These Slingers "
+"are more refined in their technique than the average Stone Thrower, using "
+"their slings to protect their communities from a safer range. Though not "
+"highly skilled in battle, their persistence and reach make them a nuisance "
+"to would-be attackers."
+msgstr ""
+
+#. [unit_type]: id=EOI_stone_thrower, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/stone_thrower.cfg:4
+msgid "Stone Thrower"
+msgstr ""
+
+#. [unit_type]: id=EOI_stone_thrower, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/stone_thrower.cfg:17
+msgid ""
+"Many earthmen are seen carrying stones wherever they go, though the reason "
+"remains a mystery. These stones, however, become unexpectedly useful in "
+"combat, as the earthmen are quick to hurl them at intruders. Though "
+"untrained and unrefined, a volley of stones from a group of these Stone "
+"Throwers can cause surprising damage, making them a valuable part of the "
+"earthmen’s defenses."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/earthmen/stone_thrower.cfg:31
+msgid "stones"
+msgstr ""
+
+#. [unit_type]: id=EOI_warrior, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/warrior.cfg:4
+msgid "Warrior"
+msgstr ""
+
+#. [unit_type]: id=EOI_warrior, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/warrior.cfg:18
+msgid ""
+"Though earthmen are not naturally aggressive, those chosen as warriors are "
+"trained to defend their homes with courage and resilience. Earthmen warriors "
+"have learned the art of combat, wielding simple yet effective weapons and "
+"relying on the strength of their sturdy frames. In battle, they stand their "
+"ground with determination, pushing back enemies to secure the safety of "
+"their communities."
+msgstr ""
+
+#. [unit_type]: id=EOI_worker, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/worker.cfg:4
+msgid "Worker"
+msgstr ""
+
+#. [unit_type]: id=EOI_worker, race=EOI_earthman
+#: Era_of_Ilthan/units/earthmen/worker.cfg:17
+msgid ""
+"Earthmen workers are an ever-present sight in the caves, quietly toiling "
+"away on tasks that seem mysterious and unending. While they move slowly and "
+"lack the combat skills of trained fighters, their numbers alone make them a "
+"force to be respected. Any intruder who underestimates them may soon face a "
+"swarm of determined workers, united in protecting their territory."
+msgstr ""
+
+#. [unit_type]: id=EOI_young_garavandion, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/young_garavandion.cfg:4
+msgid "Young Garavandion"
+msgstr ""
+
+#. [unit_type]: id=EOI_young_garavandion, race=EOI_earth_monster
+#: Era_of_Ilthan/units/earthmen/young_garavandion.cfg:17
+msgid ""
+"This fiercely aggressive juvenile creature prowls the caves, driven by an "
+"insatiable appetite for battle. Drawn to the faintest sounds, it often "
+"recklessly attacks anything that moves. The earthmen, understanding the "
+"Garavandion’s fearlessness, lure these creatures with small prey and trap "
+"them using nets and pits. Though wild, a captured Young Garavandion becomes "
+"an unpredictable yet invaluable asset in battle."
+msgstr ""
+
+#. [unit_type]: id=EOI_apothecary_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/apothecary_lizard.cfg:4
+msgid "Apothecary Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_apothecary_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/apothecary_lizard.cfg:18
+msgid "These are master healers and know anything to cure any kind of poison."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Ilthan/units/lizard_alliance/apothecary_lizard.cfg:57
+#: Era_of_Ilthan/units/lizard_alliance/healing_lizard.cfg:53
+#: Era_of_Ilthan/units/mountain_mages/mage_of_the_high_council.cfg:49
+#: Era_of_Ilthan/units/mountain_mages/red_mage.cfg:48
+#: Era_of_Ilthan/units/mountain_mages/yellow_mage.cfg:45
+msgid "fireball"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_claw_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/black_claw_lizard.cfg:4
+msgid "Black Claw Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_claw_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/black_claw_lizard.cfg:18
+msgid "The black claw lizards are the mightiest among the black head lizards."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/lizard_alliance/black_claw_lizard.cfg:83
+#: Era_of_Ilthan/units/lizard_alliance/black_head_lizard.cfg:82
+#: Era_of_Ilthan/units/lizard_alliance/giant_lizard.cfg:53
+#: Era_of_Ilthan/units/lizard_alliance/royal_lizard.cfg:54
+msgid "tail"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_head_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/black_head_lizard.cfg:4
+msgid "Black Head Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_black_head_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/black_head_lizard.cfg:17
+msgid ""
+"Black head lizards live on the border of the Ural swamp and therefore, they "
+"have a black head, so they can't be seen as easily while they walk to the "
+"swamp. Some other lizards tend to look down on black head lizards, telling "
+"them that they were a bit stupid. But it seems, that this is not true, it "
+"only seems that they are a lot friendlier than the other lizards, but since "
+"they are rarely seen, it is difficult to make statements about their "
+"intelligence."
+msgstr ""
+
+#. [unit_type]: id=EOI_fire_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/fire_dragon.cfg:4
+msgid "Fire Dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_fire_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/fire_dragon.cfg:17
+msgid ""
+"Fire dragons are especially strong against undead and therefore especially "
+"respected by the lizards."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Ilthan/units/lizard_alliance/fire_dragon.cfg:82
+#: Era_of_Ilthan/units/lizard_alliance/fire_lizard.cfg:58
+#: Era_of_Ilthan/units/lizard_alliance/vulcano_dragon.cfg:89
+#: Era_of_Ilthan/units/lizard_alliance/vulcano_lizard.cfg:53
+msgid "fire breath"
+msgstr ""
+
+#. [unit_type]: id=EOI_fire_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/fire_lizard.cfg:4
+msgid "Fire Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_fire_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/fire_lizard.cfg:17
+msgid ""
+"A lizard wich has fought bravely in a war is usually awarded with a flaming "
+"armor wich is created by mage lizards. Using this armor, they are "
+"invulnerable against fire and can even breath fire themselves"
+msgstr ""
+
+#. [unit_type]: id=EOI_giant_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/giant_lizard.cfg:4
+msgid "Giant Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_giant_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/giant_lizard.cfg:17
+msgid ""
+"Giant lizards are the leaders of a town and have a certain knowledge how to "
+"settle up a defense against a few undead and lead their village friends into "
+"a battle."
+msgstr ""
+
+#. [unit_type]: id=EOI_healing_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/healing_lizard.cfg:4
+msgid "Healing Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_healing_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/healing_lizard.cfg:17
+msgid ""
+"These lizards are able to heal their friends, wich is very important if they "
+"fight in the desert far from home and far from any village."
+msgstr ""
+
+#. [unit_type]: id=EOI_huge_mud, race=EOI_mud
+#: Era_of_Ilthan/units/lizard_alliance/huge_mud.cfg:4
+msgid "Huge Mud"
+msgstr ""
+
+#. [unit_type]: id=EOI_huge_mud, race=EOI_mud
+#: Era_of_Ilthan/units/lizard_alliance/huge_mud.cfg:16
+msgid "The huge violet mud can burry whole troops under itself."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/lizard_alliance/huge_mud.cfg:29
+#: Era_of_Ilthan/units/lizard_alliance/mud.cfg:26
+#: Era_of_Ilthan/units/lizard_alliance/mud_of_death.cfg:30
+#: Era_of_Ilthan/units/lizard_alliance/poisoned_mud.cfg:30
+msgid "jostle"
+msgstr ""
+
+#. [unit_type]: id=EOI_keeper_of_lightning, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/keeper_of_lightning.cfg:4
+msgid "Keeper of Lightning"
+msgstr ""
+
+#. [unit_type]: id=EOI_keeper_of_lightning, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/keeper_of_lightning.cfg:18
+msgid ""
+"Keeper of Lightning is the highest award for a lizard mage. He can control "
+"the weather in a desert, wich is the only reason, why lizards can live there "
+"for such a long time. However, he can also use this against his enemies."
+msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Ilthan/units/lizard_alliance/keeper_of_lightning.cfg:49
+#: Era_of_Ilthan/units/lizard_alliance/mage_lizard.cfg:52
+#: Era_of_Ilthan/units/lizard_alliance/wizard_lizard.cfg:54
+msgid "lightning"
+msgstr ""
+
+#. [unit_type]: id=EOI_light_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/light_dragon.cfg:4
+msgid "light dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_light_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/light_dragon.cfg:17
+msgid ""
+"The dragons of light are mighty fighters against undead. They are sometimes "
+"called \\"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Ilthan/units/lizard_alliance/light_dragon.cfg:57
+#: Era_of_Ilthan/units/lizard_alliance/light_dragon.cfg:58
+#: Era_of_Ilthan/units/lizard_alliance/pale_dragon.cfg:56
+#: Era_of_Ilthan/units/lizard_alliance/silver_dragon.cfg:59
+msgid "arcane fire"
+msgstr ""
+
+#. [unit_type]: id=EOI_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/lizard.cfg:4
+msgid "Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/lizard.cfg:17
+msgid ""
+"A common lizard who has learned how to fight against skeletons from his "
+"childhood on."
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/mage_lizard.cfg:4
+msgid "Mage Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/mage_lizard.cfg:17
+msgid ""
+"Mage lizards are very mighty lizards and use to kill hundred as many undead "
+"as their own number is."
+msgstr ""
+
+#. [unit_type]: id=EOI_mud, race=EOI_mud
+#: Era_of_Ilthan/units/lizard_alliance/mud.cfg:4
+msgid "Mud"
+msgstr ""
+
+#. [unit_type]: id=EOI_mud, race=EOI_mud
+#: Era_of_Ilthan/units/lizard_alliance/mud.cfg:17
+msgid ""
+"Nobody knows what it is but everybody knows that it doesn't want to die!"
+msgstr ""
+
+#. [unit_type]: id=EOI_mud_of_death, race=EOI_mud
+#: Era_of_Ilthan/units/lizard_alliance/mud_of_death.cfg:4
+msgid "Mud of Death"
+msgstr ""
+
+#. [unit_type]: id=EOI_mud_of_death, race=EOI_mud
+#: Era_of_Ilthan/units/lizard_alliance/mud_of_death.cfg:17
+msgid ""
+"The mud of death is so dangerous, that you shouldn't come nearer than "
+"hundred metres to it because it can throw parts of it to enemies and then "
+"they get gluey and can't move any more. Afterwards, it can kill them easily."
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/lizard_alliance/mud_of_death.cfg:58
+msgid "mud glob"
+msgstr ""
+
+#. [unit_type]: id=EOI_night_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/night_dragon.cfg:4
+msgid "night dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_night_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/night_dragon.cfg:18
+msgid ""
+"The dragons of night are the mightiest dragons in melee combat. They use to "
+"kill every enemy in their first charge. People use to call them black "
+"dragons, too."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Ilthan/units/lizard_alliance/night_dragon.cfg:90
+#: Era_of_Ilthan/units/lizard_alliance/night_dragon.cfg:91
+#: Era_of_Ilthan/units/lizard_alliance/river_dragon.cfg:63
+#: Era_of_Ilthan/units/lizard_alliance/sea_dragon.cfg:130
+msgid "black breath"
+msgstr ""
+
+#. [unit_type]: id=EOI_pale_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/pale_dragon.cfg:4
+msgid "Pale Dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_pale_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/pale_dragon.cfg:17
+msgid ""
+"Pale dragons are young dragons wich are specially trained for fighting "
+"undead. They drink arcane lava before they go to battle."
+msgstr ""
+
+#. [unit_type]: id=EOI_poisoned_mud, race=EOI_mud
+#: Era_of_Ilthan/units/lizard_alliance/poisoned_mud.cfg:4
+msgid "Poisoned Mud"
+msgstr ""
+
+#. [unit_type]: id=EOI_poisoned_mud, race=EOI_mud
+#: Era_of_Ilthan/units/lizard_alliance/poisoned_mud.cfg:17
+msgid ""
+"Poisoned mud is extremely dangerous because you get poisoned if you touch it."
+msgstr ""
+
+#. [unit_type]: id=EOI_river_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/river_dragon.cfg:4
+msgid "river Dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_river_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/river_dragon.cfg:17
+msgid ""
+"River dragons live in the coast region of the dragon's country. They like to "
+"catch fishes and to fly over the water. They are one of the rarest species "
+"of the dragons."
+msgstr ""
+
+#. [unit_type]: id=EOI_royal_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/royal_lizard.cfg:4
+msgid "Royal Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_royal_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/royal_lizard.cfg:18
+msgid ""
+"These are the kings of a lizard tribe. They are very strong and know how to "
+"lead an army into the field. They have learnt to use there body to fight "
+"against undead."
+msgstr ""
+
+#. [unit_type]: id=EOI_sea_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/sea_dragon.cfg:4
+msgid "Sea Dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_sea_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/sea_dragon.cfg:17
+msgid ""
+"Sea dragons use to fly very far out into the sea. Some say, that they have "
+"settled down on other islands, too."
+msgstr ""
+
+#. [unit_type]: id=EOI_silver_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/silver_dragon.cfg:4
+msgid "Silver Dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_silver_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/silver_dragon.cfg:18
+msgid ""
+"Silver dragons are the best undead killers on the whole island of Ilthan."
+msgstr ""
+
+#. [unit_type]: id=EOI_uralian_lord, race=EOI_uralian
+#: Era_of_Ilthan/units/lizard_alliance/uralian_lord.cfg:4
+msgid "Uralian Lord"
+msgstr ""
+
+#. [unit_type]: id=EOI_uralian_lord, race=EOI_uralian
+#: Era_of_Ilthan/units/lizard_alliance/uralian_lord.cfg:17
+msgid ""
+"Uralian Lord are the kings of the swamp. The only people who don't accept "
+"their reign are of course the swamp undead, but those are killed easily by "
+"the giant spears the Uralian Lords carry with them."
+msgstr ""
+
+#. [unit_type]: id=EOI_uralian_spearmaster, race=EOI_uralian
+#: Era_of_Ilthan/units/lizard_alliance/uralian_spearmaster.cfg:4
+msgid "Uralian Spearmaster"
+msgstr ""
+
+#. [unit_type]: id=EOI_uralian_spearmaster, race=EOI_uralian
+#: Era_of_Ilthan/units/lizard_alliance/uralian_spearmaster.cfg:16
+msgid ""
+"Uralian Spearmasters have brought their skill with their spears to "
+"perfection. People can be happy that the Uralian people are rarely hostile."
+msgstr ""
+
+#. [unit_type]: id=EOI_uralian_swimmer, race=EOI_uralian
+#: Era_of_Ilthan/units/lizard_alliance/uralian_swimmer.cfg:4
+msgid "Uralian Swimmer"
+msgstr ""
+
+#. [unit_type]: id=EOI_uralian_swimmer, race=EOI_uralian
+#: Era_of_Ilthan/units/lizard_alliance/uralian_swimmer.cfg:16
+msgid ""
+"The Uralian swimmers are a peaceful people who lives in the Uralian swamp. "
+"They are allied with the lizards, but they are much more cooperative and "
+"like to trade with humans and are even able to make primitive weapons "
+"themselves."
+msgstr ""
+
+#. [unit_type]: id=EOI_vulcano_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/vulcano_dragon.cfg:4
+msgid "Vulcano Dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_vulcano_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/vulcano_dragon.cfg:18
+msgid "The vulcano dragons can burn all their enemies without any problems."
+msgstr ""
+
+#. [unit_type]: id=EOI_vulcano_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/vulcano_lizard.cfg:4
+msgid "Vulcano Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_vulcano_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/vulcano_lizard.cfg:18
+msgid ""
+"The vulcano lizards are the most powerful warriors among the lizards and "
+"most feared among their enemies."
+msgstr ""
+
+#. [unit_type]: id=EOI_wizard_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/wizard_lizard.cfg:4
+msgid "Wizard Lizard"
+msgstr ""
+
+#. [unit_type]: id=EOI_wizard_lizard, race=EOI_lizard
+#: Era_of_Ilthan/units/lizard_alliance/wizard_lizard.cfg:17
+msgid ""
+"The lizards noted very quickly that the undead had a healthy fear of fire, "
+"yet they were unsure how to make the most of this. Limited by their lack of "
+"hands, the lizards nonetheless persisted in studying any means that would "
+"let them use fire in combat. After observing the actions of undead "
+"spellcasters, the lizards realized the key to solving their problem lay with "
+"the enemy. They captured an enemy spellcaster, and spent years studying his "
+"secrets. Their efforts were not without fruit, and now a small part of the "
+"lizard population can use this magic against the undead."
+msgstr ""
+
+#. [unit_type]: id=EOI_yellow_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/yellow_dragon.cfg:4
+msgid "yellow dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_yellow_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/yellow_dragon.cfg:17
+msgid ""
+"Yellow dragons have got some fighting experiences and survived, so they lost "
+"their fear, but not a lot, so they haven't learned to be careful, sometimes, "
+"too. So they are the most agressive dragons of all and mostly this causes "
+"their death at some stage. However, mostly they use to kill many enemies, "
+"before, too."
+msgstr ""
+
+#. [unit_type]: id=EOI_young_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/young_dragon.cfg:4
+msgid "Young Dragon"
+msgstr ""
+
+#. [unit_type]: id=EOI_young_dragon, race=EOI_dragon
+#: Era_of_Ilthan/units/lizard_alliance/young_dragon.cfg:17
+msgid "The young dragons are also called green dragons."
+msgstr ""
+
+#. [unit_type]: id=EOI_armored_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/armored_mage.cfg:4
+msgid "Armored Mage"
+msgstr ""
+
+#. [unit_type]: id=EOI_armored_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/armored_mage.cfg:18
+msgid ""
+"These mages have enchanted their clothes, so that they have the same effect "
+"as an armor, now."
+msgstr ""
+
+#. [unit_type]: id=EOI_fighting_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/fighting_mage.cfg:4
+msgid "Fighting Mage"
+msgstr ""
+
+#. [unit_type]: id=EOI_fighting_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/fighting_mage.cfg:17
+msgid ""
+"These mages have concentrated as well on the skill with their swords as on "
+"magic. The mountain mages don't know how to forge, so they have to buy their "
+"swords from the Artons, wich is the reason why they have a very good "
+"relationship with the Artons."
+msgstr ""
+
+#. [unit_type]: id=EOI_fire_spark, race=mechanical
+#: Era_of_Ilthan/units/mountain_mages/fire_spark.cfg:4
+msgid "Fire Spark"
+msgstr ""
+
+#. [unit_type]: id=EOI_fire_spark, race=mechanical
+#: Era_of_Ilthan/units/mountain_mages/fire_spark.cfg:17
+msgid ""
+"Some mages are that mighty, that they can create fire balls, wich don't "
+"dissappear after they throw them one time, but wich can walk around on the "
+"battlefield and attack like a soldier."
+msgstr ""
+
+#. [unit_type]: id=EOI_fire_storm, race=mechanical
+#: Era_of_Ilthan/units/mountain_mages/fire_storm.cfg:4
+msgid "Fire Storm"
+msgstr ""
+
+#. [unit_type]: id=EOI_fire_storm, race=mechanical
+#: Era_of_Ilthan/units/mountain_mages/fire_storm.cfg:18
+msgid ""
+"The fire storms are a bigger variation of fire sparks wich live even longer. "
+"It is very difficult to create them, so they are very rare, but the "
+"mightiest among the mountain mages are able to do that."
+msgstr ""
+
+#. [unit_type]: id=flying_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/flying_mage.cfg:4
+msgid "Flying Mage"
+msgstr ""
+
+#. [unit_type]: id=flying_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/flying_mage.cfg:16
+msgid ""
+"Some mages can use their magic to fly. They themselves say one has to be a "
+"bit crazy to become a flying mage. The other Mages say there simply stupid. "
+"However, everyone else says they are simply insane. This is actually quiet "
+"true since most of them die trying to fly the first time and most of the "
+"rest die sooner or later because they get a lack of concentration.\n"
+"\n"
+"The ability to fly comes with a cost: They cannot fight as good as others "
+"do. However they are still feared in fight since they don't fear anything. "
+"Probably they are just used to be in danger."
+msgstr ""
+
+#. [unit_type]: id=flying_master, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/flying_master.cfg:4
+msgid "Flying Master"
+msgstr ""
+
+#. [unit_type]: id=flying_master, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/flying_master.cfg:18
+msgid ""
+"The flying masters are master mages who learned to fight as well in the air "
+"as others do on the ground."
+msgstr ""
+
+#. [unit_type]: id=EOI_ice_flade, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/ice_flade.cfg:4
+msgid "Ice Flade"
+msgstr ""
+
+#. [unit_type]: id=EOI_ice_flade, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/ice_flade.cfg:18
+msgid ""
+"Ice flades are extremely good riders who can even ride on the highest "
+"mountains."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Ilthan/units/mountain_mages/ice_flade.cfg:47
+msgid "white magic"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Ilthan/units/mountain_mages/ice_flade.cfg:90
+#: Era_of_Ilthan/units/mountain_mages/snow_finder.cfg:41
+msgid "blue magic"
+msgstr ""
+
+#. [unit_type]: id=EOI_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/mage.cfg:4
+msgid "Mage"
+msgstr ""
+
+#. [unit_type]: id=EOI_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/mage.cfg:18
+msgid ""
+"The mages are the common people of the mountain mages. They learn how to use "
+"magic from childhood and of course, they are better than any other people."
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_of_the_high_council, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/mage_of_the_high_council.cfg:4
+msgid "Mage of the High Council"
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_of_the_high_council, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/mage_of_the_high_council.cfg:18
+msgid ""
+"Mages of the High Council rule the country of the mountain mages. Their "
+"magic abilities are legendary and no-one of them has ever died in a fight, "
+"because they are so incredibily powerful."
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_swordmaster, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/mage_swordmaster.cfg:4
+msgid "Mage Swordmaster"
+msgstr ""
+
+#. [unit_type]: id=EOI_mage_swordmaster, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/mage_swordmaster.cfg:18
+msgid ""
+"The red fighting mages are very feared among the enemies of the mountain "
+"mages, because they are both deadly in melee combat and powerful in ranged "
+"combat."
+msgstr ""
+
+#. [unit_type]: id=EOI_noble, race=EOI_human
+#: Era_of_Ilthan/units/mountain_mages/noble.cfg:4
+msgid "Noble"
+msgstr ""
+
+#. [unit_type]: id=EOI_noble, race=EOI_human
+#: Era_of_Ilthan/units/mountain_mages/noble.cfg:18
+msgid ""
+"If someone who isn't able to learn how to use magic is very effective in a "
+"battle, he has the change to become noble and then, he has even the chance "
+"to be accepted as a human being and to lead a normal live as a mountain non-"
+"mage. However, to be noble is not as good as it sounds. In most peoples, the "
+"noble have privileges the normal people don't have, here it is just a sign, "
+"what a high award this is, but they are in no way placed above common mages."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/mountain_mages/noble.cfg:25
+msgid "scythe"
+msgstr ""
+
+#. [unit_type]: id=EOI_red_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/red_mage.cfg:4
+msgid "Red Mage"
+msgstr ""
+
+#. [unit_type]: id=EOI_red_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/red_mage.cfg:17
+msgid ""
+"Red mages are mages with a lot of fighting experience and are much more "
+"powerful than their artonian counterparts."
+msgstr ""
+
+#. [unit_type]: id=EOI_scythe_fighter, race=EOI_human
+#: Era_of_Ilthan/units/mountain_mages/scythe_fighter.cfg:4
+msgid "Scythe Fighter"
+msgstr ""
+
+#. [unit_type]: id=EOI_scythe_fighter, race=EOI_human
+#: Era_of_Ilthan/units/mountain_mages/scythe_fighter.cfg:17
+msgid ""
+"Those sickle fighters, who don't die in the first battle, try out larger "
+"weapons, scythes and try to lose their tragic lives in the next battle."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/mountain_mages/scythe_fighter.cfg:24
+msgid "Scythe"
+msgstr ""
+
+#. [unit_type]: id=EOI_sickle_fighter, race=EOI_human
+#: Era_of_Ilthan/units/mountain_mages/sickle_fighter.cfg:4
+msgid "Sickle Fighter"
+msgstr ""
+
+#. [unit_type]: id=EOI_sickle_fighter, race=EOI_human
+#: Era_of_Ilthan/units/mountain_mages/sickle_fighter.cfg:17
+msgid ""
+"There are also some people, who just don't have any magical abilities. They "
+"are only few and so their live is hard. The others regard them as inferior "
+"and stupid. They think that this is a sign of weakness and don't treat them "
+"very well at all. They are treated like slaves and have nothing to say. "
+"Because they learned this from childhood on, most of them even accept this "
+"and think that it is true that their destiny is to do what the others tell "
+"them to. Because they often have to get herbs for magical experiments of the "
+"others, and they are hardly ever given any other weapon, some of them tried "
+"to fight with their sickle. Some of them join the army with their sickles "
+"and always go to the foremost front so that only their lives get lost and "
+"not those of the mages."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/mountain_mages/sickle_fighter.cfg:24
+msgid "Sickle"
+msgstr ""
+
+#. [unit_type]: id=EOI_snow_finder, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/snow_finder.cfg:4
+msgid "Snow Finder"
+msgstr ""
+
+#. [unit_type]: id=EOI_snow_finder, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/snow_finder.cfg:17
+msgid ""
+"Snow finders are the scouts of the mountain mages. As all mountain mages, "
+"they are able to use magic. Their name comes from a legend, that a snow "
+"finder was such a good scout, that he even found snow in the desert."
+msgstr ""
+
+#. [unit_type]: id=EOI_war_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/war_mage.cfg:4
+msgid "War Mage"
+msgstr ""
+
+#. [unit_type]: id=EOI_war_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/war_mage.cfg:17
+msgid ""
+"There are some mages, who learned how to use a sword effectively, but didn't "
+"forget to bring their magic skills to perfection."
+msgstr ""
+
+#. [unit_type]: id=EOI_whirlwind, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/whirlwind.cfg:4
+msgid "Whirlwind"
+msgstr ""
+
+#. [unit_type]: id=EOI_whirlwind, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/whirlwind.cfg:16
+msgid ""
+"Whirlwinds get their names because they ride like a whirlwind through their "
+"enemies and use their magic as fast as no other."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Ilthan/units/mountain_mages/whirlwind.cfg:45
+msgid "wite magic"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Ilthan/units/mountain_mages/whirlwind.cfg:66
+msgid "Blue Magie"
+msgstr ""
+
+#. [unit_type]: id=EOI_yellow_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/yellow_mage.cfg:4
+msgid "Yellow mage"
+msgstr ""
+
+#. [unit_type]: id=EOI_yellow_mage, race=EOI_mage
+#: Era_of_Ilthan/units/mountain_mages/yellow_mage.cfg:16
+msgid ""
+"Yellow mages have usually made so many magic experiments during their live, "
+"that their staff does not look like a normal staff, but has some special "
+"abilities with wich they do their experiments."
+msgstr ""
+
+#. [unit_type]: id=EOI_assistant, race=EOI_human, gender=male,female
+#: Era_of_Ilthan/units/swamp_undead/assistant.cfg:4
+msgid "Assistant"
+msgstr ""
+
+#. [unit_type]: id=EOI_assistant, race=EOI_human, gender=male,female
+#: Era_of_Ilthan/units/swamp_undead/assistant.cfg:26
+msgid ""
+"For the promise of eternal live some people throw in their lot with the "
+"necromants of the southern swamps. Only the most most ruthless and desperate "
+"would do such a job. Most are wanted criminals from Artonia."
+msgstr ""
+
+#. [unit_type]: id=EOI_corpse_thief, race=EOI_human, gender=male,female
+#: Era_of_Ilthan/units/swamp_undead/corpse_thief.cfg:4
+msgid "Corpse Thief"
+msgstr ""
+
+#. [unit_type]: id=EOI_corpse_thief, race=EOI_human, gender=male,female
+#: Era_of_Ilthan/units/swamp_undead/corpse_thief.cfg:19
+msgid ""
+"In order to create their undead armies, necromancers need lots of corpses. A "
+"very long time ago, a large army was lured into the swamp and killed. So "
+"there is a large supply of corpses in the swamp. But sometimes, it is a lot "
+"of work to find them because they are distributed all over the large Ural "
+"swamp and you the necromancers cannot really control which kinds of corpses "
+"they find. So if they need something special for their experiments, for "
+"example a particularly large corpse, they often let their assistants steal "
+"corpses from the Artonian graveyards or before they are buried. This is, "
+"however, a very dangerous task since relatives and guards are not very happy "
+"about that, so it requires a lot of skills to sneak into the cities at night "
+"and steal the corpses."
+msgstr ""
+
+#. [female]: gender=female
+#: Era_of_Ilthan/units/swamp_undead/corpse_thief.cfg:104
+msgid "female^Corpse Thief"
+msgstr ""
+
+#. [unit_type]: id=EOI_dark_sorcerer, race=EOI_human
+#: Era_of_Ilthan/units/swamp_undead/dark_sorcerer.cfg:4
+msgid "Dark Sorcerer"
+msgstr ""
+
+#. [unit_type]: id=EOI_dark_sorcerer, race=EOI_human
+#: Era_of_Ilthan/units/swamp_undead/dark_sorcerer.cfg:24
+msgid ""
+"The dread inspired by black magic comes chiefly from how little is known "
+"about it by the common man. Dark sorcerers have begun to unlock the secrets "
+"of life and death, quickly becoming masters of inflicting pain and anguish.\n"
+"\n"
+"The ultimate prize of the dark arts is complete domination of death and "
+"life. Dark Sorcerers may eventually learn how to manipulate life and death "
+"by reanimating corpses, skeletons, and spirits. The most corrupt and power-"
+"hungry will attempt to completely conquer death through the transformation "
+"to lichdom and attainment of a dreadful immortality.\n"
+"\n"
+"Special Notes: The ranged attacks of a Dark Sorcerer are magical, and always "
+"have a high chance of hitting an opponent."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Ilthan/units/swamp_undead/dark_sorcerer.cfg:67
+#: Era_of_Ilthan/units/swamp_undead/warlock.cfg:83
+#: Era_of_Ilthan/units/swamp_undead/witch_apprentice.cfg:64
+msgid "chill wave"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Ilthan/units/swamp_undead/dark_sorcerer.cfg:121
+#: Era_of_Ilthan/units/swamp_undead/warlock.cfg:137
+#: Era_of_Ilthan/units/swamp_undead/witch_apprentice.cfg:107
+msgid "plague wave"
+msgstr ""
+
+#. [unit_type]: id=EOI_ghost, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/ghost.cfg:4
+msgid "Ghost"
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Ilthan/units/swamp_undead/ghost.cfg:46
+#: Era_of_Ilthan/units/swamp_undead/nightmare.cfg:48
+#: Era_of_Ilthan/units/swamp_undead/specter.cfg:45
+msgid "wail"
+msgstr ""
+
+#. [unit_type]: id=EOI_ghoul, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/ghoul.cfg:4
+msgid "Ghoul"
+msgstr ""
+
+#. [unit_type]: id=EOI_ghoul, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/ghoul.cfg:24
+msgid ""
+"Only those who have delved into the circles of necromancy know what must be "
+"done to turn a person into a ghoul, and it is a secret they are not telling. "
+"Whatever unspeakable rites they have performed, the result is a beast that "
+"knows nothing of its days as a human being, a creature that shambles about "
+"as naked as the day it was born, and gorges itself on the flesh of the "
+"dead.\n"
+"\n"
+"It is because of such things that necromancy is condemned with an almost "
+"primal hatred.\n"
+"\n"
+"Special Notes: A ghoul's claws are covered in poison, and victims of this "
+"poison will continually take damage until they can be cured in town or by a "
+"healer."
+msgstr ""
+
+#: Era_of_Ilthan/units/swamp_undead/giant_zombie.cfg:5
+msgid "Giant Zombie"
+msgstr ""
+
+#. [unit_type]: id=EOI_graveyard_robber, race=EOI_human, gender=male,female
+#: Era_of_Ilthan/units/swamp_undead/graveyard_robber.cfg:4
+msgid "Graveyard Robber"
+msgstr ""
+
+#. [unit_type]: id=EOI_graveyard_robber, race=EOI_human, gender=male,female
+#: Era_of_Ilthan/units/swamp_undead/graveyard_robber.cfg:20
+msgid ""
+"Sometimes, necromancers send a group of their most skilled assistants to "
+"exhume a whole graveyard of a village. While stealing a single special "
+"corpse at night can be done by a small group sneaking in carefully, it is "
+"much harder to hide such an undertaking. So this usually implies that the "
+"guards have to be eliminated, which is of course useful because it yields "
+"additional corpses."
+msgstr ""
+
+#. [female]: gender=female
+#: Era_of_Ilthan/units/swamp_undead/graveyard_robber.cfg:121
+msgid "female^Graveyard Robber"
+msgstr ""
+
+#. [unit_type]: id=EOI_klabautermann, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/klabautermann.cfg:4
+msgid "Klabautermann"
+msgstr ""
+
+#. [unit_type]: id=EOI_klabautermann, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/klabautermann.cfg:26
+msgid ""
+"The sailors tell many stories about the klabautermann. They say a ship sinks "
+"if one of them is seen. Normally this is quiet true as the klabautermann is "
+"used from sourceres in war. If they meet a ship, they are normally told to "
+"attack it."
+msgstr ""
+
+#. [attack]: type=cold
+#: Era_of_Ilthan/units/swamp_undead/klabautermann.cfg:94
+msgid "spook"
+msgstr ""
+
+#. [unit_type]: id=EOI_necrophage, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/necrophage.cfg:4
+msgid "Necrophage"
+msgstr ""
+
+#. [unit_type]: id=EOI_necrophage, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/necrophage.cfg:24
+msgid ""
+"Driven ravenous by an unholy hunger for dead flesh, Necrophages attack their "
+"hoped-for food with beast-like ferocity. When they are sated with the flesh "
+"of their victims, they simply shrug off all damage sustained as if they had "
+"been freshly summoned, to begin their search for flesh again.\n"
+"\n"
+"Special Notes: A Necrophage's claws are covered in poison, and victims of "
+"this poison will continually take damage until they can be cured in town or "
+"by a healer."
+msgstr ""
+
+#. [unit_type]: id=EOI_nightmare, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/nightmare.cfg:4
+msgid "Nightmare"
+msgstr ""
+
+#. [unit_type]: id=EOI_nightmare, race=EOI_swamp_undead
+#. [unit_type]: id=EOI_specter, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/nightmare.cfg:24
+#: Era_of_Ilthan/units/swamp_undead/specter.cfg:23
+msgid " _ "
+msgstr ""
+
+#. [unit_type]: id=EOI_sea_corpse, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/sea_corpse.cfg:4
+msgid "Sea Corpse"
+msgstr ""
+
+#. [unit_type]: id=EOI_sea_corpse, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/sea_corpse.cfg:24
+msgid ""
+"When the necromancers want to control for a short time an empty part of a "
+"river they use water corpse. But when they really nead corpses to fight in "
+"water they use sea corpses. These corpses are feared as they are fast in "
+"water and won't be stopped easily. Often if sea corpses appear there is a "
+"real army needed to stop them, as only experienced sorcerers are able to "
+"control sea corpses."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/swamp_undead/sea_corpse.cfg:29
+#: Era_of_Ilthan/units/swamp_undead/water_corpse.cfg:30
+msgid "rusty dagger"
+msgstr ""
+
+#: Era_of_Ilthan/units/swamp_undead/soulless.cfg:5
+msgid "Soulless"
+msgstr ""
+
+#. [unit_type]: id=EOI_soulless_rider, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/soulless_rider.cfg:4
+msgid "Soulless Rider"
+msgstr ""
+
+#. [unit_type]: id=EOI_soulless_rider, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/soulless_rider.cfg:17
+msgid ""
+"Soulless Corpses are the bodies of the dead, re-animated by dark magic. "
+"Although weak in combat, these zombies can spread their curse to those they "
+"kill, increasing the army of undead."
+msgstr ""
+
+#. [unit_type]: id=EOI_soulless_slinger, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/soulless_slinger.cfg:4
+msgid "Soulless Slinger"
+msgstr ""
+
+#. [unit_type]: id=EOI_soulless_slinger, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/soulless_slinger.cfg:28
+msgid ""
+"These animated walking corpses have become strong from long experience "
+"fighting the living."
+msgstr ""
+
+#. [unit_type]: id=EOI_specter, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/specter.cfg:4
+msgid "Specter"
+msgstr ""
+
+#. [unit_type]: id=EOI_swamp_rider, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/swam_rider.cfg:4
+msgid "Swamp Rider"
+msgstr ""
+
+#. [unit_type]: id=EOI_swamp_rider, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/swam_rider.cfg:23
+msgid ""
+"Walking Rider are the corps of dead rider from an army which died in a swamp."
+msgstr ""
+
+#: Era_of_Ilthan/units/swamp_undead/walking_corpse.cfg:5
+msgid "Walking Corpse"
+msgstr ""
+
+#. [unit_type]: id=EOI_walking_corpse_slinger, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/walking_corpse_slinger.cfg:4
+msgid "Walking Corpse Slinger"
+msgstr ""
+
+#. [unit_type]: id=EOI_walking_corpse_slinger, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/walking_corpse_slinger.cfg:27
+msgid ""
+"Walking Corpses are the bodies of the dead, re-animated by dark magic. "
+"Although weak in combat, these zombies can spread their curse to those they "
+"kill, increasing the army of undead."
+msgstr ""
+
+#. [unit_type]: id=EOI_warlock, race=EOI_human
+#: Era_of_Ilthan/units/swamp_undead/warlock.cfg:4
+msgid "Warlock"
+msgstr ""
+
+#. [unit_type]: id=EOI_warlock, race=EOI_human
+#: Era_of_Ilthan/units/swamp_undead/warlock.cfg:25
+msgid ""
+"One of the greatest circles of what is considered 'black magic' is the art "
+"of necromancy, the terrible ability to awaken the dead with false life. It "
+"was a discovery that had terrible ramifications and caused humanity's "
+"condemnation of black magic, for it has given fear a vast new arsenal.\n"
+"\n"
+"This ability, in all aspects, is the first step towards cheating death of "
+"its ultimate prize. It is the highest degree of power a dark mage can attain "
+"without losing grip on humanity itself, but pales to the lethal power "
+"wielded by Liches. Their mortal bodies are also made sturdier by their "
+"magic, in contrast to the frail decayed form of a Lich.\n"
+"\n"
+"Special Notes: the necromancer's ranged attacks are magical and always have "
+"a high chance of hitting an opponent. The staff of a necromancer is marked "
+"with the plague, and any foe struck down by it will rise again in unlife."
+msgstr ""
+
+#. [unit_type]: id=EOI_water_corpse, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/water_corpse.cfg:4
+msgid "Water Corpse"
+msgstr ""
+
+#. [unit_type]: id=EOI_water_corpse, race=EOI_swamp_undead
+#: Era_of_Ilthan/units/swamp_undead/water_corpse.cfg:25
+msgid ""
+"Sometimes the necromancers need to control rivers or lakes. The walking "
+"corpses and the ghosts can cross the water but they are week there. So the "
+"necromancers tried to improve the strength of there undead army in water. "
+"After several experiments they discovered how to use the dead corpse of "
+"drunk people."
+msgstr ""
+
+#. [unit_type]: id=EOI_witch_apprentice, gender=male, race=EOI_human, description=
+#: Era_of_Ilthan/units/swamp_undead/witch_apprentice.cfg:5
+msgid "Witch Apprentice"
+msgstr ""
+
+#. [unit_type]: id=EOI_assassin, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/assassin.cfg:4
+msgid "Assassin"
+msgstr ""
+
+#. [unit_type]: id=EOI_assassin, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/assassin.cfg:17
+msgid ""
+"The wood killers have invented an extremely dangerous special poison wich "
+"both paralyzes the opponent and kills him after a few minutes."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/wood_pirates/assassin.cfg:59
+#: Era_of_Ilthan/units/wood_pirates/spy.cfg:58
+#: Era_of_Ilthan/units/wood_pirates/thief.cfg:59
+msgid "throwing knife"
+msgstr ""
+
+#. [unit_type]: id=EOI_axe_thrower, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/axe_thrower.cfg:4
+msgid "Axe Thrower"
+msgstr ""
+
+#. [unit_type]: id=EOI_axe_thrower, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/axe_thrower.cfg:17
+msgid "The axe thrower is a strong unit"
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/wood_pirates/axe_thrower.cfg:61
+msgid "axe throw"
+msgstr ""
+
+#. [unit_type]: id=EOI_axeman, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/axeman.cfg:4
+msgid "Axeman"
+msgstr ""
+
+#. [unit_type]: id=EOI_axeman, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/axeman.cfg:17
+msgid ""
+"The axemen are feared by there enemies because they hide in the forest and "
+"attack there enemies suddenly."
+msgstr ""
+
+#. [unit_type]: id=EOI_blowgunner, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/blowgunner.cfg:4
+msgid "Blowgunner"
+msgstr ""
+
+#. [unit_type]: id=EOI_blowgunner, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/blowgunner.cfg:17
+msgid ""
+"The blowgunners hide in the forest and shoot you while you can't even see "
+"them."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/wood_pirates/blowgunner.cfg:62
+msgid "blowgun"
+msgstr ""
+
+#. [unit_type]: id=EOI_boatman, race=EOI_human, description=
+#: Era_of_Ilthan/units/wood_pirates/boatman.cfg:4
+msgid "Boatman"
+msgstr ""
+
+#. [attack]: type=impact
+#: Era_of_Ilthan/units/wood_pirates/boatman.cfg:22
+#: Era_of_Ilthan/units/wood_pirates/canoe.cfg:23
+msgid "paddle"
+msgstr ""
+
+#. [unit_type]: id=EOI_canoe, race=EOI_human, description=
+#: Era_of_Ilthan/units/wood_pirates/canoe.cfg:4
+msgid "Canoe"
+msgstr ""
+
+#. [unit_type]: id=EOI_captain, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/captain.cfg:4
+msgid "Captain"
+msgstr ""
+
+#. [unit_type]: id=EOI_captain, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/captain.cfg:18
+msgid ""
+"The captains of the ships are the mightiest among the wood pirates, they are "
+"known to split villagers in two with a single blow of their two handed sword."
+msgstr ""
+
+#. [unit_type]: id=EOI_corsair, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/corsair.cfg:4
+msgid "Corsair"
+msgstr ""
+
+#. [unit_type]: id=EOI_corsair, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/corsair.cfg:17
+msgid ""
+"Pirates who have pillaged at least one city are called corsair among the "
+"wood pirates."
+msgstr ""
+
+#. [unit_type]: id=EOI_fisherman, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/fisherman.cfg:4
+msgid "Fisherman"
+msgstr ""
+
+#. [unit_type]: id=EOI_fisherman, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/fisherman.cfg:17
+msgid ""
+"The wood pirates get many of their goods from their raids with their ships "
+"or by robbing travellers, however, one can not always plan the goods one "
+"gets by robbing and raiding, so this is not really a reliable source for "
+"food. Since the wood pirates live in the forest at the coast and have no "
+"farms, one of their main food sources is fishing.\n"
+"\n"
+"One of the major business of the wood pirates is to catch slaves and use "
+"them for their own purposes where they treat them very badly or for selling "
+"them in other countries far away from the island of Ilthan in exchange for "
+"other goods. When the men of a village gather for a raid, the fishermen "
+"often simply take their fishing nets with them and use this to catch enemies "
+"in order to sell them as slaves."
+msgstr ""
+
+#. [unit_type]: id=EOI_master_of_the_forest, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/master_of_the_forest.cfg:4
+msgid "Master of the Forest"
+msgstr ""
+
+#. [unit_type]: id=EOI_master_of_the_forest, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/master_of_the_forest.cfg:17
+msgid "The best fighters of the wood pirates become masters of the forest."
+msgstr ""
+
+#. [attack]: type=blade
+#: Era_of_Ilthan/units/wood_pirates/master_of_the_forest.cfg:34
+#: Era_of_Ilthan/units/wood_pirates/warrior_of_the_forest.cfg:33
+msgid "battleaxe"
+msgstr ""
+
+#. [unit_type]: id=EOI_men_hunter, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/men_hunter.cfg:4
+msgid "Men Hunter"
+msgstr ""
+
+#. [unit_type]: id=EOI_men_hunter, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/men_hunter.cfg:17
+msgid ""
+"Some of the slave traders have become tragically famous and these "
+"individuals are known as men hunters."
+msgstr ""
+
+#. [unit_type]: id=EOI_pirate, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/pirate.cfg:4
+msgid "Pirate"
+msgstr ""
+
+#. [unit_type]: id=EOI_pirate, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/pirate.cfg:17
+msgid ""
+"The wood pirates were hardened veterans, feared up and down the coast. The "
+"sight of their flag entering the harbor could put an entire city to flight, "
+"as the people knew that a night of razing, pillaging and death was upon them."
+msgstr ""
+
+#. [unit_type]: id=EOI_pirate_ship, race=EOI_human, description=
+#: Era_of_Ilthan/units/wood_pirates/pirate_ship.cfg:4
+msgid "Pirate Ship"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Era_of_Ilthan/units/wood_pirates/pirate_ship.cfg:51
+#: Era_of_Ilthan/units/wood_pirates/warship.cfg:52
+msgid "armbrust"
+msgstr ""
+
+#. [unit_type]: id=EOI_slave_trader, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/slave_trader.cfg:4
+msgid "Slave Trader"
+msgstr ""
+
+#. [unit_type]: id=EOI_slave_trader, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/slave_trader.cfg:17
+msgid ""
+"One of the major business of the wood pirates is to catch and sell slaves. "
+"This is a very cruel story, because they either keep the slaves for their "
+"own purpose and they are known to treat their slaves very badly or they sell "
+"them to another country far away from home. Every village has a few slave "
+"traders which are responsible for sorting out worthless slaves and deciding "
+"which ones to keep for which works and which ones to sell for which price "
+"and for selling them in the end. The sad thing about wood pirates is, that "
+"trading slaves is maybe one of their most honourable businesses, because it "
+"is one of the few things they do that does not involve killing people."
+msgstr ""
+
+#. [unit_type]: id=EOI_spy, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/spy.cfg:4
+msgid "Spy"
+msgstr ""
+
+#. [unit_type]: id=EOI_spy, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/spy.cfg:16
+msgid ""
+"The wood pirates are extremely dangerous in the forest, because mostly, you "
+"can't see them. Some of them, wich are especially good at attacking ones "
+"back are the spys."
+msgstr ""
+
+#. [unit_type]: id=EOI_thief, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/thief.cfg:4
+msgid "Thief"
+msgstr ""
+
+#. [unit_type]: id=EOI_thief, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/thief.cfg:17
+msgid ""
+"It is very rare that people come trough the forest without being robbed, but "
+"even then, it is likely, that the worthiest goods have been taken secretly "
+"by wood thieves."
+msgstr ""
+
+#. [unit_type]: id=EOI_warrior_of_the_forest, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/warrior_of_the_forest.cfg:4
+msgid "Warrior of the Forest"
+msgstr ""
+
+#. [unit_type]: id=EOI_warrior_of_the_forest, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/warrior_of_the_forest.cfg:16
+msgid ""
+"The warriors of the forest can hide in the forest and attack when you aren't "
+"ready."
+msgstr ""
+
+#. [unit_type]: id=EOI_warship, race=EOI_human, description=
+#: Era_of_Ilthan/units/wood_pirates/warship.cfg:4
+msgid "Warschip"
+msgstr ""
+
+#. [unit_type]: id=EOI_wood_bowman, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/wood_bowman.cfg:4
+msgid "Wood Bowman"
+msgstr ""
+
+#. [unit_type]: id=EOI_wood_bowman, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/wood_bowman.cfg:16
+msgid ""
+"The wood bowmen are not as good as Arton bowmen, but they don't have to. "
+"They come close enough to their target, so that they can aim without being "
+"seen."
+msgstr ""
+
+#. [unit_type]: id=EOI_wood_knight, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/wood_knight.cfg:4
+msgid "Wood Knight"
+msgstr ""
+
+#. [unit_type]: id=EOI_wood_knight, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/wood_knight.cfg:17
+msgid ""
+"Most horses know exactly how broad they are and through wich gap they can "
+"walk and wich gap is too small. However, they usually don't calculate that "
+"there is a rider on them. That's why it is very difficult to ride in a "
+"forest very fast. The wood knights have managed to train their horses to "
+"improve this. They can even shoot while they are riding."
+msgstr ""
+
+#. [unit_type]: id=EOI_wood_longbowman, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/wood_longbowman.cfg:4
+msgid "Wood Longbowman"
+msgstr ""
+
+#. [unit_type]: id=EOI_wood_longbowman, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/wood_longbowman.cfg:17
+msgid ""
+"Wood longbowmen are used to fight in a forest and can hit their targets "
+"without being seen."
+msgstr ""
+
+#. [unit_type]: id=EOI_wood_rider, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/wood_rider.cfg:4
+msgid "Wood Rider"
+msgstr ""
+
+#. [unit_type]: id=EOI_wood_rider, race=EOI_human
+#: Era_of_Ilthan/units/wood_pirates/wood_rider.cfg:16
+msgid ""
+"The wood pirates steal everything they can get. Sometimes, they steal "
+"horses, too. Now, they can ride in the forest with their horses."
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:7
+msgid "heals +10"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:8
+msgid ""
+"Heals +10:\n"
+"Allows the unit to heal adjacent friendly units at the beginning of each "
+"turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 10 HP per turn, or stop "
+"poison from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:27
+msgid "heals +2"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:28
+msgid ""
+"Heals +2:\n"
+"Allows the unit to heal adjacent friendly units at the beginning of each "
+"turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 2 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:47
+msgid "heals +6"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:48
+msgid ""
+"Heals +6:\n"
+"Allows the unit to heal adjacent friendly units at the beginning of each "
+"turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 6 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+
+#. [heals]: id=curing
+#: Era_of_Ilthan/utils/abilities.cfg:65
+msgid "cure"
+msgstr ""
+
+#. [heals]: id=curing
+#: Era_of_Ilthan/utils/abilities.cfg:66
+msgid ""
+"Cure:\n"
+"A curer can cure a unit of poison, although that unit will receive no "
+"additional healing on the turn it is cured of the poison."
+msgstr ""
+
+#. [dummy]: id=magic
+#: Era_of_Ilthan/utils/abilities.cfg:79
+msgid "magic"
+msgstr ""
+
+#. [dummy]: id=magic
+#: Era_of_Ilthan/utils/abilities.cfg:80
+msgid ""
+"Magic:\n"
+"This unit is only held in this world by magic, however, the magic energy "
+"gets lost from time to time, so this unit loses two\n"
+"hitpoints at the beginning of every turn."
+msgstr ""
+
+#. [regenerate]: id=mud
+#: Era_of_Ilthan/utils/abilities.cfg:90
+msgid "mud"
+msgstr ""
+
+#. [regenerate]: id=mud
+#: Era_of_Ilthan/utils/abilities.cfg:91 Era_of_Ilthan/utils/abilities.cfg:94
+msgid ""
+"Regeneration(small):\n"
+"This unit regenerates 5 HP per turn."
+msgstr ""
+
+#. [regenerate]: id=mud
+#: Era_of_Ilthan/utils/abilities.cfg:93
+msgid "schlamm"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:106
+msgid "heals +4"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:107
+msgid ""
+"Heals +4:\n"
+"Allows the unit to heal adjacent friendly units at the beginning of each "
+"turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 4 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:125
+msgid "heals +8"
+msgstr ""
+
+#. [heals]: id=healing
+#: Era_of_Ilthan/utils/abilities.cfg:126
+msgid ""
+"Heals +8:\n"
+"Allows the unit to heal adjacent friendly units at the beginning of each "
+"turn.\n"
+"\n"
+"A unit cared for by this healer may heal up to 8 HP per turn, or stop poison "
+"from taking effect for that turn.\n"
+"A poisoned unit cannot be cured of its poison by a healer, and must seek the "
+"care of a village or a unit that can cure."
+msgstr ""
+
+#. [advancement]: id=sg_courageous
+#: Era_of_Ilthan/utils/abilities.cfg:143
+msgid "Add a swing to your attack."
+msgstr ""
+
+#. [advancement]: id=gepanzerterkaempfermagier
+#: Era_of_Ilthan/utils/abilities.cfg:160
+msgid "Strengthen your attack."
+msgstr ""
+
+#. [dummy]: id=overtakeable
+#: Era_of_Ilthan/utils/abilities.cfg:176
+msgid "overtakeable"
+msgstr ""
+
+#. [dummy]: id=overtakeable
+#: Era_of_Ilthan/utils/abilities.cfg:177
+msgid ""
+"Overtakeable:\n"
+"There are some kinds of machines, wich are not directly controlled by orders "
+"of a leader,\n"
+"but who can be steered. However, if no unit remains there, to control this "
+"war machine, the\n"
+"enemy can do the same thing. If no own unit is adjacent to an overtakable "
+"unit and this unit\n"
+"is attacked, it changes its side to the side of the attacking unit."
+msgstr ""
+
+#. [hides]
+#: Era_of_Ilthan/utils/abilities.cfg:187 Era_of_Ilthan/utils/abilities.cfg:188
+msgid "Swampunseen"
+msgstr ""
+
+#. [hides]
+#: Era_of_Ilthan/utils/abilities.cfg:189
+msgid ""
+"Swampunseen:\n"
+"This unit can hide in swamp, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see or attack this unit when it is in swamp, except for "
+"any turn immediately after this unit has attacked, or if there are enemy "
+"units next to this unit."
+msgstr ""
+
+#. [hides]
+#: Era_of_Ilthan/utils/abilities.cfg:193
+msgid ""
+"Ambush:\n"
+"This unit can hide in swamp, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see or attack this unit when it is in swamp, except for "
+"any turn immediately after this unit has attacked, or if there are enemy "
+"units next to this unit."
+msgstr ""
+
+#. [dummy]: id=catch_slaves_{GOLD}
+#: Era_of_Ilthan/utils/abilities.cfg:210
+msgid "catch slaves"
+msgstr ""
+
+#. [dummy]: id=catch_slaves_{GOLD}
+#: Era_of_Ilthan/utils/abilities.cfg:211
+msgid ""
+"Catch Slaves:\n"
+"    Some units don't kill their enemies, but they take them as slaves and "
+"sell them. That's their main way to win money. Units with this get {GOLD} "
+"gold per unit they kill."
+msgstr ""
+
+#. [leadership]: id=firestorm
+#: Era_of_Ilthan/utils/abilities.cfg:221
+msgid "Firestorm"
+msgstr ""
+
+#. [leadership]: id=firestorm
+#: Era_of_Ilthan/utils/abilities.cfg:222
+msgid "female^firestorm"
+msgstr ""
+
+#. [leadership]: id=firestorm
+#: Era_of_Ilthan/utils/abilities.cfg:223
+msgid ""
+"Firestorm:\n"
+"This Unit makes other units with the ability firestorm fight better. This "
+"means they get 1 additional strength."
+msgstr ""
+
+#. [unstore_unit]
+#: Era_of_Ilthan/utils/events.cfg:23
+msgid "2"
+msgstr ""
+
+#. [floating_text]
+#. [dummy]: id=death_blow
+#: Era_of_Ilthan/utils/events.cfg:109
+#: Era_of_Ilthan/utils/weapon_specials.cfg:17
+msgid "Death Blow"
+msgstr ""
+
+#. [race]: id=EOI_mage, description=
+#: Era_of_Ilthan/utils/races.cfg:4
+msgid "race^Mage"
+msgstr ""
+
+#. [race]: id=EOI_mage, description=
+#: Era_of_Ilthan/utils/races.cfg:5
+msgid "race+female^Mage"
+msgstr ""
+
+#. [race]: id=EOI_mage, description=
+#: Era_of_Ilthan/utils/races.cfg:6
+msgid "race+plural^Mages"
+msgstr ""
+
+#. [race]: id=EOI_earthman
+#: Era_of_Ilthan/utils/races.cfg:16
+msgid "race^Earthman"
+msgstr ""
+
+#. [race]: id=EOI_earthman
+#: Era_of_Ilthan/utils/races.cfg:17
+msgid "race+female^Earthwoman"
+msgstr ""
+
+#. [race]: id=EOI_earthman
+#: Era_of_Ilthan/utils/races.cfg:18
+msgid "race+plural^Earthmen"
+msgstr ""
+
+#. [race]: id=EOI_earthman
+#: Era_of_Ilthan/utils/races.cfg:19
+msgid ""
+"The earthmen are a reclusive, industrious people inhabiting the darkest and "
+"most labyrinthine caves of the underground. Physically shorter and more "
+"compact than humans, they possess tough, resilient bodies that allow them to "
+"withstand the cold, damp conditions of their subterranean homes. Earthmen "
+"are known for their quiet, almost ghostly presence, often moving in silent "
+"groups and toiling away on mysterious tasks. While their motivations are not "
+"always clear to outsiders, everything they do serves their collective "
+"survival in the harsh underground environment. The earthmen place high value "
+"on cooperation and ingenuity, with each individual filling a role, however "
+"small, to ensure the welfare of the entire community.\n"
+"\n"
+"Their society is structured and highly organized, albeit in ways that may "
+"seem chaotic to an outsider. The earthmen’s social roles are divided mainly "
+"into workers, builders, and warriors, with a clear hierarchy that centers "
+"around a singular figure—the King. Though the King rarely speaks, his "
+"leadership is unchallenged, as he holds both wisdom and strength, often "
+"mediating disputes and directing defensive strategies. The earthmen have a "
+"natural affinity for constructing traps, barricades, and other functional "
+"structures, using basic tools and materials found in their environment. Even "
+"their simple weapons, like stones and slings, are crafted with care to suit "
+"their compact, precise fighting style. In times of conflict, earthmen "
+"warriors are trained to defend their homes, though their preference is "
+"always to avoid aggression unless absolutely necessary.\n"
+"\n"
+"Despite their physical limitations, the earthmen have learned to work "
+"alongside the natural creatures of the caves, which they capture and tame to "
+"supplement their defenses. These captured monsters, carefully selected for "
+"their unique traits, become valuable assets in the earthmen’s strategy of "
+"survival. While their interactions with the outside world are rare, the "
+"earthmen have developed sophisticated tactics to defend against any "
+"intruders who might disturb their sanctuary. As a race, they are "
+"resourceful, cautious, and determined to protect the peace of their "
+"underground realm, knowing well the dangers that lie both within and beyond "
+"their cave systems."
+msgstr ""
+
+#. [race]: id=EOI_earth_monster
+#: Era_of_Ilthan/utils/races.cfg:35
+msgid "race^Earth Monster"
+msgstr ""
+
+#. [race]: id=EOI_earth_monster
+#: Era_of_Ilthan/utils/races.cfg:36
+msgid "race+female^Earth Monster"
+msgstr ""
+
+#. [race]: id=EOI_earth_monster
+#: Era_of_Ilthan/utils/races.cfg:37
+msgid "race+plural^Earth Monsters"
+msgstr ""
+
+#. [race]: id=EOI_earth_monster
+#: Era_of_Ilthan/utils/races.cfg:38
+msgid ""
+"The creatures collectively known as the “earth monsters” are diverse in "
+"appearance and behavior, yet all share an origin deep within the ancient "
+"caves that form their natural habitat. These monsters range from fierce, "
+"berserk fighters to agile swimmers, and each has evolved specific "
+"adaptations that suit the dark, treacherous world beneath the earth’s "
+"surface. Generally, earth monsters have hardened bodies, unique natural "
+"defenses, and a heightened sensitivity to the subtle changes in their "
+"environment. From predatory Krutilarys to swift, evasive Onoloms, these "
+"creatures exist within a delicate ecosystem shaped by survival and "
+"predation.\n"
+"\n"
+"Most earth monsters are solitary by nature, defending their territories "
+"fiercely. However, some younger creatures, such as the Krutilarys Whelps and "
+"Onolom Hatchlings, may live in loose packs, relying on numbers for "
+"protection before they grow strong enough to survive independently. Earth "
+"monsters generally survive by preying on smaller cave creatures, and a few "
+"even scavenge the organic remnants that occasionally drift down from the "
+"cave entrances. Their unique adaptations make them exceptionally resilient: "
+"the Onoloms, for example, are naturally adept swimmers capable of surviving "
+"sudden floods, while the Garavandions rely on brute strength and aggression "
+"to ward off any creature that threatens their hunting grounds.\n"
+"\n"
+"Though fierce and often hostile to one another, many earth monsters have "
+"been captured and domesticated by the earthmen, who use their knowledge of "
+"these creatures’ behaviors and habits to turn them into allies. This "
+"relationship between earthmen and earth monsters is tenuous, as the monsters "
+"resist taming and often require careful handling. Nevertheless, once under "
+"control, earth monsters become valuable tools in the earthmen’s arsenal, "
+"augmenting their defense capabilities. For outsiders, the earth monsters "
+"represent the formidable, untamed force of the underground, a testament to "
+"nature’s power in the unseen depths of the world."
+msgstr ""
+
+#. [race]: id=EOI_lizard, description=
+#: Era_of_Ilthan/utils/races.cfg:57
+msgid "race^Lizard"
+msgstr ""
+
+#. [race]: id=EOI_lizard, description=
+#: Era_of_Ilthan/utils/races.cfg:58
+msgid "race+female^Lizard"
+msgstr ""
+
+#. [race]: id=EOI_lizard, description=
+#: Era_of_Ilthan/utils/races.cfg:59
+msgid "race+plural^Lizards"
+msgstr ""
+
+#. [race]: id=EOI_dragon, description=
+#: Era_of_Ilthan/utils/races.cfg:68
+msgid "race^Dragon"
+msgstr ""
+
+#. [race]: id=EOI_dragon, description=
+#: Era_of_Ilthan/utils/races.cfg:69
+msgid "race+female^Dragon"
+msgstr ""
+
+#. [race]: id=EOI_dragon, description=
+#: Era_of_Ilthan/utils/races.cfg:70
+msgid "race+plural^Dragons"
+msgstr ""
+
+#. [race]: id=EOI_human, description=
+#: Era_of_Ilthan/utils/races.cfg:80
+msgid "race^Human"
+msgstr ""
+
+#. [race]: id=EOI_human, description=
+#: Era_of_Ilthan/utils/races.cfg:81
+msgid "race+female^Human"
+msgstr ""
+
+#. [race]: id=EOI_human, description=
+#: Era_of_Ilthan/utils/races.cfg:82
+msgid "race+plural^Humans"
+msgstr ""
+
+#. [race]: id=EOI_uralian, description=
+#: Era_of_Ilthan/utils/races.cfg:91
+msgid "race^Uralian"
+msgstr ""
+
+#. [race]: id=EOI_uralian, description=
+#: Era_of_Ilthan/utils/races.cfg:92
+msgid "race+female^Uralian"
+msgstr ""
+
+#. [race]: id=EOI_uralian, description=
+#: Era_of_Ilthan/utils/races.cfg:93
+msgid "race+plural^Uralians"
+msgstr ""
+
+#. [race]: id=EOI_mud, description=
+#: Era_of_Ilthan/utils/races.cfg:102
+msgid "race^Mud"
+msgstr ""
+
+#. [race]: id=EOI_mud, description=
+#: Era_of_Ilthan/utils/races.cfg:103
+msgid "race+female^Mud"
+msgstr ""
+
+#. [race]: id=EOI_mud, description=
+#: Era_of_Ilthan/utils/races.cfg:104
+msgid "race+plural^Mud"
+msgstr ""
+
+#. [race]: id=EOI_desert_undead
+#: Era_of_Ilthan/utils/races.cfg:113
+msgid "race^Desert Undead"
+msgstr ""
+
+#. [race]: id=EOI_desert_undead
+#: Era_of_Ilthan/utils/races.cfg:114
+msgid "race+female^Desert Undead"
+msgstr ""
+
+#. [race]: id=EOI_desert_undead
+#: Era_of_Ilthan/utils/races.cfg:115
+msgid "race+plural^Desert Undead"
+msgstr ""
+
+#. [race]: id=EOI_desert_undead
+#: Era_of_Ilthan/utils/races.cfg:116
+msgid ""
+"The Desert Undead are a cursed and ancient legion, reanimated from the "
+"remains of a long-lost desert civilization. These skeletal warriors, "
+"scorpions, and mummified nobles once thrived in a powerful kingdom built on "
+"the harsh sands, a realm whose strength was unmatched in its age. Yet, due "
+"to an unknown curse—perhaps the result of forbidden magic or the wrath of a "
+"betrayed god—they have been condemned to rise from their graves, endlessly "
+"guarding the desert as though defending a kingdom that no longer exists. "
+"Bound to the sands, they are driven by a silent compulsion to protect and "
+"conquer, as if their lost kingdom still held sway over them.\n"
+"\n"
+"Their ranks are diverse, with each undead reflecting the role it held in "
+"life. From the relentless Sandwalkers and Dune Guards, who defend with "
+"haunting resilience, to the skilled archers and the fearsome Dread Slayers, "
+"every unit in the Desert Undead remembers some part of the martial prowess "
+"they once held. Among them are mummified nobles and priests, whose magic and "
+"combat skills are preserved, twisted by death into a darker form. They serve "
+"as the true leaders of the undead, each mummy bearing the power and "
+"authority it held in life. At the head of these noble undead stands the "
+"Pharaoh, the once-legendary ruler of the kingdom, and his High Priests, each "
+"imbued with magic that controls even the elements of the desert.\n"
+"\n"
+"The Desert Undead are feared across the land not only for their power but "
+"for their connection to death itself. Their presence brings an unnatural "
+"stillness to the air, and any who approach the desert hear the faint "
+"whispers of past wars and the curses of those who will never rest. Though "
+"they may lack the living mind’s adaptability, they possess a chilling focus "
+"and a resilience born from both magic and memory, forming an army that will "
+"defend their ancient sands until the curse is lifted—or until there is "
+"nothing left to protect.\n"
+"    "
+msgstr ""
+
+#. [race]: id=EOI_swamp_undead, description=
+#: Era_of_Ilthan/utils/races.cfg:129
+msgid "race^Swamp Undead"
+msgstr ""
+
+#. [race]: id=EOI_swamp_undead, description=
+#: Era_of_Ilthan/utils/races.cfg:130
+msgid "race+female^Swamp Undead"
+msgstr ""
+
+#. [race]: id=EOI_swamp_undead, description=
+#: Era_of_Ilthan/utils/races.cfg:131
+msgid "race+plural^Swamp Undead"
+msgstr ""
+
+#. [race]: id=mechanical
+#: Era_of_Ilthan/utils/races.cfg:140
+msgid "race^Mechanical"
+msgstr ""
+
+#. [race]: id=mechanical
+#: Era_of_Ilthan/utils/races.cfg:141
+msgid "race+plural^Mechanical"
+msgstr ""
+
+#. [race]: id=mechanical
+#: Era_of_Ilthan/utils/races.cfg:142
+msgid ""
+"Animated neither by natural life nor by necromancy, the term "
+"<italic>text='mechanical'</italic> describes a created artifact of an "
+"intelligent being. Most mechanical things neither move nor think on their "
+"own, but some do so as a result of magical enchantment."
+msgstr ""
+
+#. [trait]: id=EOI_magic_knowledge
+#: Era_of_Ilthan/utils/traits.cfg:5
+msgid "knowledge"
+msgstr ""
+
+#. [damage]: id=chariot
+#: Era_of_Ilthan/utils/weapon_specials.cfg:6
+msgid ""
+"Chariot:\n"
+"    When used offensively, this attack deals triple damage to the target."
+msgstr ""
+
+#. [dummy]: id=death_blow
+#: Era_of_Ilthan/utils/weapon_specials.cfg:18
+msgid ""
+"Death Blow:\n"
+"If an enemy is already severely wounded, this unit can deal a devastating "
+"final blow to finish them off. If a unit with this special attacks an enemy "
+"for which it only\n"
+"needs two hits to kill them, it doubles its strength. Note that this effect "
+"only works for the attacker. A defending unit does not deliver death blows."
+msgstr ""
